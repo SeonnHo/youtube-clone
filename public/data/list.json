@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "UenZxqeygy4rRuccf2FCVtfjYrY",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 481182,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eqnqIxU6CBSuQkVnebf-EpCvd-c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NAOXFu5oMxg"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-12T10:39:30Z",
+        "channelId": "UCJ7qEMLcg2R9S6JwmSTU2Rg",
+        "title": "메이플랜드 1위 파이터 방망이(Lv.110) | 아오지 탄광 7일차",
+        "description": "메이플랜드 낭만찾는 근본 파이터 #메랜 #메이플랜드 #메랜 #방망이 #전사 #파이터 #1위 #일비 #도적 #궁수.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NAOXFu5oMxg/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NAOXFu5oMxg/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NAOXFu5oMxg/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "방망이",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-02-12T10:39:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wd3lUe0Q8_jE6vg4qYOaEokz-D0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g-vI4LzJklM"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-11T14:00:33Z",
+        "channelId": "UCw9fP0nSoUygLDmvV1GdAZw",
+        "title": "동료에게 청운검",
+        "description": "메이플랜드 Ep. 56 * SNS https://tiktok.com/@lego77_ https://facebook.com/legoseven7 * 문의 : lego77@pre-ent.com #레고77 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g-vI4LzJklM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g-vI4LzJklM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g-vI4LzJklM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레고77",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-11T14:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uGugX0mAPxCoMEUppGlwjGl0bMc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3pOzHh7bwVw"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-06T11:06:02Z",
+        "channelId": "UCUR5w0E-jQTOO8Q0FZ4ilYQ",
+        "title": "옛메, 라이칸스로프 무한 사냥! 드디어 일비 표창 떴냐 ㅋㅋㅋㅋ [팡이요,  메이플스토리, 메이플랜드, 메랜, 옛날메이플]",
+        "description": "풀버전은 아프리카TV 팡이요 방송국 VOD에 자동 업로드가 됩니다. 방송국에서 확인 해 주시기 바랍니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3pOzHh7bwVw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3pOzHh7bwVw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3pOzHh7bwVw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "팡이요",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-06T11:06:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qpbv2iQh6F-DI-xRtC34AWX0eHA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZlNjbWOFnBU"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-02T06:55:13Z",
+        "channelId": "UCb5NLtXAsTBrmaZVhyFa-Wg",
+        "title": "요즘 본섭보다 핫하다는 메이플랜드 궁수로 시작합니다!",
+        "description": "항상 영상 사랑해주셔서 감사합니다! 세글자 팬카페 : https://3gj.kr/ 세글자 트위치 : https://www.twitch.tv/skswhdkgo1 세글자 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZlNjbWOFnBU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZlNjbWOFnBU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZlNjbWOFnBU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "글자네 YouTube",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-02T06:55:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JZRCXM4Ks7XDRnuq2VYbm4-8sbw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JOfHZjocvkI"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-27T11:02:37Z",
+        "channelId": "UCUR5w0E-jQTOO8Q0FZ4ilYQ",
+        "title": "옛메, 그 시절 메이플에도 존재하지 않았던 역대급 종결템이 태어나버렸다... 현금91억기대값,,ㄷㄷ [팡이요,  메이플스토리, 메이플랜드, 메랜, 옛날메이플]",
+        "description": "풀버전은 아프리카TV 팡이요 방송국 VOD에 자동 업로드가 됩니다. 방송국에서 확인 해 주시기 바랍니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JOfHZjocvkI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JOfHZjocvkI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JOfHZjocvkI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "팡이요",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-27T11:02:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DsJz1DYxI_AcKrFP83gtVaThMCU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2_QKMhXDaec"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-09T09:00:04Z",
+        "channelId": "UCdXpKf3aIenvWkMbF3EvcQg",
+        "title": "사람들은 왜 메이플랜드에 열광하는가?",
+        "description": "오늘은 메이플스토리 월드의 '메이플 랜드' 에 대해서 이야기합니다. 옛날 메이플스토리를 만날 수 있어 요즘 인기라고 해요. 생방송 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2_QKMhXDaec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2_QKMhXDaec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2_QKMhXDaec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "방구석 게임평론가 쥐냥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-09T09:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DWuJgc-71ZghqjxtgBszIPZ-m7E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KD1ikcPjgeI"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-09T10:00:19Z",
+        "channelId": "UCUR5w0E-jQTOO8Q0FZ4ilYQ",
+        "title": "옛메, 13노목+공50갑충+5작신발 Let&#39;s Go !!!!! [팡이요,  메이플스토리, 메랜, 메이플랜드, 옛날메이플]",
+        "description": "풀버전은 아프리카TV 팡이요 방송국 VOD에 자동 업로드가 됩니다. 방송국에서 확인 해 주시기 바랍니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KD1ikcPjgeI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KD1ikcPjgeI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KD1ikcPjgeI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "팡이요",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-09T10:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "30ABkWgUrlwxUE6rZOxks8TRP_Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YCD8UX9LqZs"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-12T08:22:31Z",
+        "channelId": "UC3cTPxMUYOroVevd77z909g",
+        "title": "메이플랜드 뒷메로 두번째 아대 만들었습니다",
+        "description": "투네이션 후원 : https://toon.at/donate/637913213092324843 감사합니다. 멤버쉽 가입 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YCD8UX9LqZs/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YCD8UX9LqZs/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YCD8UX9LqZs/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "코인왕 알트",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-02-12T08:22:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TxMsx1wA43gf51kSstbMD8Up8zM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "52t8n8J-TCg"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-05T10:00:06Z",
+        "channelId": "UCUR5w0E-jQTOO8Q0FZ4ilYQ",
+        "title": "옛메, 엘나스에 일비 표창먹으러 갔습니다 [팡이요,  메이플스토리, 메이플랜드, 메랜, 옛날 메이플]",
+        "description": "풀버전은 아프리카TV 팡이요 방송국 VOD에 자동 업로드가 됩니다. 방송국에서 확인 해 주시기 바랍니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/52t8n8J-TCg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/52t8n8J-TCg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/52t8n8J-TCg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "팡이요",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-05T10:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yRVS2qK_1FT_tNEWZ1y4kg4ccCE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wBy-_L9v3jI"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-05T01:18:10Z",
+        "channelId": "UCCYxG5_lDKaY9zdASl_gZVg",
+        "title": "메이플랜드 핵 터지고 초인플레이션 오면서 난리난 근황",
+        "description": "최근 연달아서 발생한 지폭천성 핵, 매크로 사태에 따라 주문서와 아이템 가격이 지속적으로 오르는 하이퍼 인플레이션 현상이 지속 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wBy-_L9v3jI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wBy-_L9v3jI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wBy-_L9v3jI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "메이플홀릭",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-05T01:18:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FcwPixwt46Htm3m0vLOimJ_YmyU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uxa6N9aVXcY"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-01T10:00:43Z",
+        "channelId": "UCUR5w0E-jQTOO8Q0FZ4ilYQ",
+        "title": "옛메, 최강 보스 주니어 발록을 만나다! 초 희귀템 일비 표창까지 ㄷㄷ [팡이요,  메이플스토리,메이플랜드,메랜,옛날메이플]",
+        "description": "풀버전은 아프리카TV 팡이요 방송국 VOD에 자동 업로드가 됩니다. 방송국에서 확인 해 주시기 바랍니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uxa6N9aVXcY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uxa6N9aVXcY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uxa6N9aVXcY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "팡이요",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-01T10:00:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "70BhNRSRqajzCwoom-OyC9NJg58",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w8Pf5S6jmO8"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-11T10:00:40Z",
+        "channelId": "UCoYFo-lRD3pchMUtsBcEbOA",
+        "title": "도파민 풀충전 스페판+그린배틀로드 전붕이 인생역전 도전!!!",
+        "description": "안녕하세요 쌀튜브 트할입니다!! 구독 좋아요 알람설정 부탁드리겠습니다! ☆영상올라오는 시간☆ 월 , 수 , 금 , 토or일 주 4~5회 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w8Pf5S6jmO8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w8Pf5S6jmO8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w8Pf5S6jmO8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "트할 Thal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-11T10:00:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i4TSWSqYxrGrmXINcEiHdqlctOA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U285JgfkEFI"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-30T23:52:30Z",
+        "channelId": "UCWlrf8RV98zKq2saaXWaj1g",
+        "title": "[1월31일 잣Live]메이플랜드 엘나스!?  [리니지M  불도그 수삼티비 빅보스 리니지 부주 메이플월드 메이플랜드 아르테일 로나 ]",
+        "description": "광고 문의 : 카카오톡: FM7777 ◁ 전섭지존케릭 부주 후원코드:hooot9016072 투네이션:https://toon.at/donate/hoot1000 아프리카: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U285JgfkEFI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U285JgfkEFI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U285JgfkEFI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "잣근성",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-30T23:52:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rGws8w4n7ORva_BkNj48LdB3goY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V--yNyTwxps"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-11T08:16:58Z",
+        "channelId": "UCZ6IM7_T-bCmr_7DgAKjYxg",
+        "title": "성공만큼 큰 실패는 없다",
+        "description": "카론소속 피닉스박 유튜브 공식 채널 입니다! 타인을 비방하는 악의적, 모욕적인 댓글은 사전 고지 없이 차단되거나 삭제될 수 있음을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V--yNyTwxps/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V--yNyTwxps/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V--yNyTwxps/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "피닉스박",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-11T08:16:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7Tg7XgBd0ZkNzem3yj9vZQ4ifr8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EZSih9aweok"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-29T10:00:14Z",
+        "channelId": "UCDL0-u-fnbzU5ivY7UCnlqg",
+        "title": "지발돈좀 1대 본주입니다. 메이플랜드로 복귀를 해보려 합니다.",
+        "description": "안녕하세요. 메이플스토리 지발돈좀 1대 본주입니다 게임을 접은지 오랜 시간이 지났지만 메이플랜드로 복귀를 해보려고 합니다 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EZSih9aweok/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EZSih9aweok/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EZSih9aweok/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "지발돈좀",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-29T10:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hv6r9A4a1iE3j0T2jamekZv21BY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T1YK-RcurWQ"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-11T03:00:17Z",
+        "channelId": "UCoNPTfleaF58461y-YIAnDA",
+        "title": "도파민의 땅 엘나스",
+        "description": "[모아재의 메이플랜드 25편] □ [모아재] 인스타 : https://www.instagram.com/moayoyo □ [모아재] 트위치 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T1YK-RcurWQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T1YK-RcurWQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T1YK-RcurWQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "모아재",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-11T03:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TiSLlsa6Fi2B4PcP7sLqTwEayMM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6Eo3BfWrync"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-06T08:00:46Z",
+        "channelId": "UC-9v2ASxz8f313YpiMF55eg",
+        "title": "드디어 전사 풀템 맞췄습니다",
+        "description": "김데데의 메이플랜드 28번째이야기 *광고 문의: charon@gysent.com *개인 문의: alstmdjd20@daum.net - *풀 영상 링크 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Eo3BfWrync/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Eo3BfWrync/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Eo3BfWrync/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "김데데",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-06T08:00:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0rk4CAXpzsGKFK_-d_ZjKB30-MI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pPhg46D8ewE"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-31T13:00:44Z",
+        "channelId": "UCHxKSivB6JLZ1SEMdxd1fAg",
+        "title": "옛날 메이플에 미치면 생기는 일",
+        "description": "재밌게 시청하셨다면 구독과 좋아요 부탁드리겠습니다 실시간 생방송 : http://www.afreecatv.com/seokwngud 인스타그램 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pPhg46D8ewE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pPhg46D8ewE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pPhg46D8ewE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뜨뜨뜨뜨",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-31T13:00:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TrePW7zUe2nKX5nIl03iJVg2o4Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6coHFE42Sks"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-19T11:20:36Z",
+        "channelId": "UCUbOogiD-4PKDqaJfSOTC0g",
+        "title": "옛날메이플, 4차전직 해봤습니다 ㅋㅋㅋ 메이플스토리 [테스터훈]",
+        "description": "채널에 가입하여 멤버십 혜택을 누려보세요. https://www.youtube.com/channel/UCUbOogiD-4PKDqaJfSOTC0g/join 테스터훈 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6coHFE42Sks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6coHFE42Sks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6coHFE42Sks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "테스터훈 TesterHoon",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-19T11:20:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4RFB-32cU02VVzpKeF536oO2POI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LK04CWxn8x4"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-04T09:25:08Z",
+        "channelId": "UCb5NLtXAsTBrmaZVhyFa-Wg",
+        "title": "메이플랜드 헌터의 자존심을 지키겠습니다",
+        "description": "항상 영상 사랑해주셔서 감사합니다! 세글자 팬카페 : https://3gj.kr/ 세글자 트위치 : https://www.twitch.tv/skswhdkgo1 세글자 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LK04CWxn8x4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LK04CWxn8x4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LK04CWxn8x4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "글자네 YouTube",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-04T09:25:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ejfdeWhloldSmyLNXj1WrKhz-ys",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kbHx6Vmxmb8"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-11T10:00:35Z",
+        "channelId": "UCUR5w0E-jQTOO8Q0FZ4ilYQ",
+        "title": "옛메, 설날 특집 메이플랜드 모음zip 꿀잼보장ㅋㅋ [팡이요,  메이플스토리, 옛날메이플, 메이플랜드,메랜]",
+        "description": "풀버전은 아프리카TV 팡이요 방송국 VOD에 자동 업로드가 됩니다. 방송국에서 확인 해 주시기 바랍니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kbHx6Vmxmb8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kbHx6Vmxmb8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kbHx6Vmxmb8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "팡이요",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-11T10:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Pjgy0lEeRWisd1OJ8Zzvd1tnuv4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qyrj3y6uRBM"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-05T08:36:01Z",
+        "channelId": "UCZ6IM7_T-bCmr_7DgAKjYxg",
+        "title": "국가권력급 귀걸이 제작 완료..!",
+        "description": "카론소속 피닉스박 유튜브 공식 채널 입니다! 타인을 비방하는 악의적, 모욕적인 댓글은 사전 고지 없이 차단되거나 삭제될 수 있음을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qyrj3y6uRBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qyrj3y6uRBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qyrj3y6uRBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "피닉스박",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-05T08:36:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X3Bo5Y0qh2MLCK4cXOiyR1IH7E0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rIpQPolzVFE"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-05T15:03:27Z",
+        "channelId": "UCw9fP0nSoUygLDmvV1GdAZw",
+        "title": "라이칸스로프",
+        "description": "메이플랜드 Ep. 52 * SNS https://tiktok.com/@lego77_ https://facebook.com/legoseven7 * 문의 : lego77@pre-ent.com #레고77 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rIpQPolzVFE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rIpQPolzVFE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rIpQPolzVFE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레고77",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-05T15:03:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zTRdxdh5cDcVwDro5pxkJQxU61k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8WEAqPhJrrc"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-06T07:02:11Z",
+        "channelId": "UCnUVDRLyoHl_FkqSOeCik6Q",
+        "title": "[메이플랜드] 한손검 파이터 해야겠지?.. 레드 카타나 체험기",
+        "description": "여러분들의 구독과 좋아요 및 댓글은 저에게 큰 힘이 됩니다. 투네이션 후원 : https://toon.at/donate/eins_going 각종 문의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8WEAqPhJrrc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8WEAqPhJrrc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8WEAqPhJrrc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "주깽아의 게임채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-06T07:02:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "omBhUb8bfFFffxCHsWl3ER6CSNo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qh89b05AODE"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-31T08:10:44Z",
+        "channelId": "UCUR5w0E-jQTOO8Q0FZ4ilYQ",
+        "title": "추억의 옛날 메이플스토리 시작했습니다!! [팡이요,  메이플랜드, 메이플스토리]",
+        "description": "풀버전은 아프리카TV 팡이요 방송국 VOD에 자동 업로드가 됩니다. 방송국에서 확인 해 주시기 바랍니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qh89b05AODE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qh89b05AODE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qh89b05AODE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "팡이요",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-31T08:10:44Z"
+      }
+    }
+  ]
+}
