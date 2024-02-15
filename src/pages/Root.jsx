@@ -4,7 +4,7 @@ import Navbar from '../components/Navbar';
 
 export default function Root() {
   return (
-    <div>
+    <div className="flex flex-col justify-center items-center">
       <Navbar />
       <Outlet />
     </div>
