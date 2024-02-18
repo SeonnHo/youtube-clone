@@ -1,24 +1,17 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
+import { useYoutubeApi } from '../context/YoutubeApiContext';
+import { useQuery } from '@tanstack/react-query';
 
 export default function Home() {
-  const [videos, setVideos] = useState({
-    items: [],
+  const { youtube } = useYoutubeApi();
+  const {
+    isLoading,
+    error,
+    data: videos,
+  } = useQuery({
+    queryKey: ['popular videos'],
+    queryFn: () => youtube.search(),
   });
-  const [isLoading, setIsLoading] = useState(false);
-
-  const fetchVideosHandler = async () => {
-    setIsLoading(true);
-    const response = await fetch('data/popular.json');
-
-    const data = await response.json();
-
-    setVideos(data);
-    setIsLoading(false);
-  };
-
-  useEffect(() => {
-    fetchVideosHandler();
-  }, []);
 
   const compactNumberFormatter = new Intl.NumberFormat('ko', {
     notation: 'compact',
@@ -41,12 +34,14 @@ export default function Home() {
     const years = days / 365;
     return `${Math.floor(years)}년 전`;
   };
+  console.log(videos);
 
-  if (isLoading) return <div>Loading...</div>;
+  if (isLoading) return <p>Loading...</p>;
+  if (error) return <p>Something is wrong!</p>;
 
   return (
-    <div className="grid xl:grid-cols-5 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 xl:gap-4 lg:gap-3 md:gap-2 sm:gap-1 w-4/5">
-      {videos.items.map((video) => {
+    <main className="grid xl:grid-cols-5 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 xl:gap-4 lg:gap-3 md:gap-2 sm:gap-1 w-4/5">
+      {videos.map((video) => {
         return (
           <div className="flex flex-col" key={video.id}>
             <img
@@ -68,6 +63,6 @@ export default function Home() {
           </div>
         );
       })}
-    </div>
+    </main>
   );
 }
