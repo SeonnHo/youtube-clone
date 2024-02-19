@@ -1,861 +1,855 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "UenZxqeygy4rRuccf2FCVtfjYrY",
+  "etag": "a3REKuepiBhD6-jg-yqxRy_qK8M",
   "nextPageToken": "CBkQAA",
   "regionCode": "KR",
   "pageInfo": {
-    "totalResults": 481182,
+    "totalResults": 1000000,
     "resultsPerPage": 25
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "eqnqIxU6CBSuQkVnebf-EpCvd-c",
+      "etag": "wSJEtC-5S11rIo1_cFUBz9_aAdA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "NAOXFu5oMxg"
+        "videoId": "ksOQZ0z_PSQ"
       },
       "snippet": {
-        "publishedAt": "2024-02-12T10:39:30Z",
-        "channelId": "UCJ7qEMLcg2R9S6JwmSTU2Rg",
-        "title": "메이플랜드 1위 파이터 방망이(Lv.110) | 아오지 탄광 7일차",
-        "description": "메이플랜드 낭만찾는 근본 파이터 #메랜 #메이플랜드 #메랜 #방망이 #전사 #파이터 #1위 #일비 #도적 #궁수.",
+        "publishedAt": "2024-02-10T21:00:25Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 결승 요르단 VS 카타르 풀 하이라이트",
+        "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/NAOXFu5oMxg/default_live.jpg",
+            "url": "https://i.ytimg.com/vi/ksOQZ0z_PSQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/NAOXFu5oMxg/mqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/ksOQZ0z_PSQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/NAOXFu5oMxg/hqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/ksOQZ0z_PSQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "방망이",
-        "liveBroadcastContent": "live",
-        "publishTime": "2024-02-12T10:39:30Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "wd3lUe0Q8_jE6vg4qYOaEokz-D0",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "g-vI4LzJklM"
-      },
-      "snippet": {
-        "publishedAt": "2024-02-11T14:00:33Z",
-        "channelId": "UCw9fP0nSoUygLDmvV1GdAZw",
-        "title": "동료에게 청운검",
-        "description": "메이플랜드 Ep. 56 * SNS https://tiktok.com/@lego77_ https://facebook.com/legoseven7 * 문의 : lego77@pre-ent.com #레고77 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/g-vI4LzJklM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/g-vI4LzJklM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/g-vI4LzJklM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "레고77",
+        "channelTitle": "쿠팡플레이 스포츠",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-02-11T14:00:33Z"
+        "publishTime": "2024-02-10T21:00:25Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "uGugX0mAPxCoMEUppGlwjGl0bMc",
+      "etag": "uhR84Sq0yMLmC1nBBSN_yJwOVC4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "3pOzHh7bwVw"
+        "videoId": "VGyhYYzMKdw"
       },
       "snippet": {
-        "publishedAt": "2024-02-06T11:06:02Z",
-        "channelId": "UCUR5w0E-jQTOO8Q0FZ4ilYQ",
-        "title": "옛메, 라이칸스로프 무한 사냥! 드디어 일비 표창 떴냐 ㅋㅋㅋㅋ [팡이요,  메이플스토리, 메이플랜드, 메랜, 옛날메이플]",
-        "description": "풀버전은 아프리카TV 팡이요 방송국 VOD에 자동 업로드가 됩니다. 방송국에서 확인 해 주시기 바랍니다.",
+        "publishedAt": "2024-02-07T20:00:11Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 이란 VS 카타르 풀 하이라이트",
+        "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/3pOzHh7bwVw/default.jpg",
+            "url": "https://i.ytimg.com/vi/VGyhYYzMKdw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/3pOzHh7bwVw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VGyhYYzMKdw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/3pOzHh7bwVw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VGyhYYzMKdw/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "팡이요",
+        "channelTitle": "쿠팡플레이 스포츠",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-02-06T11:06:02Z"
+        "publishTime": "2024-02-07T20:00:11Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "qpbv2iQh6F-DI-xRtC34AWX0eHA",
+      "etag": "lSb_fcBxBmszujGhLLnGhGWazHg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "ZlNjbWOFnBU"
+        "videoId": "IMq_dbhxwAY"
       },
       "snippet": {
-        "publishedAt": "2024-01-02T06:55:13Z",
-        "channelId": "UCb5NLtXAsTBrmaZVhyFa-Wg",
-        "title": "요즘 본섭보다 핫하다는 메이플랜드 궁수로 시작합니다!",
-        "description": "항상 영상 사랑해주셔서 감사합니다! 세글자 팬카페 : https://3gj.kr/ 세글자 트위치 : https://www.twitch.tv/skswhdkgo1 세글자 ...",
+        "publishedAt": "2024-02-06T20:30:02Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 요르단 VS 대한민국 풀 하이라이트",
+        "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ZlNjbWOFnBU/default.jpg",
+            "url": "https://i.ytimg.com/vi/IMq_dbhxwAY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ZlNjbWOFnBU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/IMq_dbhxwAY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ZlNjbWOFnBU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/IMq_dbhxwAY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "글자네 YouTube",
+        "channelTitle": "쿠팡플레이 스포츠",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-01-02T06:55:13Z"
+        "publishTime": "2024-02-06T20:30:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "JZRCXM4Ks7XDRnuq2VYbm4-8sbw",
+      "etag": "Ys_yy5eoxtpGsGhbEILzIHNavm8",
       "id": {
         "kind": "youtube#video",
-        "videoId": "JOfHZjocvkI"
+        "videoId": "0FUkMFjg2uM"
       },
       "snippet": {
-        "publishedAt": "2024-01-27T11:02:37Z",
-        "channelId": "UCUR5w0E-jQTOO8Q0FZ4ilYQ",
-        "title": "옛메, 그 시절 메이플에도 존재하지 않았던 역대급 종결템이 태어나버렸다... 현금91억기대값,,ㄷㄷ [팡이요,  메이플스토리, 메이플랜드, 메랜, 옛날메이플]",
-        "description": "풀버전은 아프리카TV 팡이요 방송국 VOD에 자동 업로드가 됩니다. 방송국에서 확인 해 주시기 바랍니다.",
+        "publishedAt": "2024-02-03T06:15:00Z",
+        "channelId": "UCtybqqaTj6Nx74Azdz1KrsA",
+        "title": "[2023 AFC 아시안컵 카타르] 8강 대한민국 vs 호주",
+        "description": "[2023 AFC 아시안컵 카타르] 8강 대한민국 vs 호주.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/JOfHZjocvkI/default.jpg",
+            "url": "https://i.ytimg.com/vi/0FUkMFjg2uM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/JOfHZjocvkI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0FUkMFjg2uM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/JOfHZjocvkI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0FUkMFjg2uM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "팡이요",
+        "channelTitle": "tvN SPORTS",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-01-27T11:02:37Z"
+        "publishTime": "2024-02-03T06:15:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "DsJz1DYxI_AcKrFP83gtVaThMCU",
+      "etag": "wMguBU3n5I8RHE2zFOlUSTlkCvk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "2_QKMhXDaec"
+        "videoId": "kW_z-NMuZIU"
       },
       "snippet": {
-        "publishedAt": "2024-01-09T09:00:04Z",
-        "channelId": "UCdXpKf3aIenvWkMbF3EvcQg",
-        "title": "사람들은 왜 메이플랜드에 열광하는가?",
-        "description": "오늘은 메이플스토리 월드의 '메이플 랜드' 에 대해서 이야기합니다. 옛날 메이플스토리를 만날 수 있어 요즘 인기라고 해요. 생방송 ...",
+        "publishedAt": "2024-02-02T21:30:04Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 호주 VS 대한민국 풀 하이라이트",
+        "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/2_QKMhXDaec/default.jpg",
+            "url": "https://i.ytimg.com/vi/kW_z-NMuZIU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/2_QKMhXDaec/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kW_z-NMuZIU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/2_QKMhXDaec/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kW_z-NMuZIU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "방구석 게임평론가 쥐냥",
+        "channelTitle": "쿠팡플레이 스포츠",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-01-09T09:00:04Z"
+        "publishTime": "2024-02-02T21:30:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "DWuJgc-71ZghqjxtgBszIPZ-m7E",
+      "etag": "dW5nyiVYcyDgUgP9mddCvFM9yuA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "KD1ikcPjgeI"
+        "videoId": "oeqHdqB9fjo"
       },
       "snippet": {
-        "publishedAt": "2024-02-09T10:00:19Z",
-        "channelId": "UCUR5w0E-jQTOO8Q0FZ4ilYQ",
-        "title": "옛메, 13노목+공50갑충+5작신발 Let&#39;s Go !!!!! [팡이요,  메이플스토리, 메랜, 메이플랜드, 옛날메이플]",
-        "description": "풀버전은 아프리카TV 팡이요 방송국 VOD에 자동 업로드가 됩니다. 방송국에서 확인 해 주시기 바랍니다.",
+        "publishedAt": "2024-02-10T20:00:13Z",
+        "channelId": "UCXTRFt1vLvZpahQtiKJjLaQ",
+        "title": "#AsianCup2023 | Final : Jordan 1 - 3 Qatar",
+        "description": "Akram Afif scored a hat-trick of penalties as Qatar won their second consecutive AFC Asian Cup™ title after defeating Jordan 3-1 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/KD1ikcPjgeI/default.jpg",
+            "url": "https://i.ytimg.com/vi/oeqHdqB9fjo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/KD1ikcPjgeI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oeqHdqB9fjo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/KD1ikcPjgeI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oeqHdqB9fjo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "팡이요",
+        "channelTitle": "AFC Asian Cup",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-02-09T10:00:19Z"
+        "publishTime": "2024-02-10T20:00:13Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "30ABkWgUrlwxUE6rZOxks8TRP_Q",
+      "etag": "SN-eO0Jqikvwqx7zWdgbjNgMzWk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "YCD8UX9LqZs"
+        "videoId": "GlqUi6DDf18"
       },
       "snippet": {
-        "publishedAt": "2024-02-12T08:22:31Z",
-        "channelId": "UC3cTPxMUYOroVevd77z909g",
-        "title": "메이플랜드 뒷메로 두번째 아대 만들었습니다",
-        "description": "투네이션 후원 : https://toon.at/donate/637913213092324843 감사합니다. 멤버쉽 가입 ...",
+        "publishedAt": "2024-02-17T03:30:05Z",
+        "channelId": "UCGBmrTHyV_Pgup7a1wCHcKA",
+        "title": "&quot;흥민이가 왜 멱살까지 잡았겠어요&quot; 차두리 코치, 드디어 내부실태 까발려버리자 정몽규 발표 번복사태",
+        "description": "차두리 코치, 드디어 내부실태 까발려버리자 정몽규 발표 번복사태 매일 스포츠 소식을 빠르게 시청하실려면 꼭 '좋아요' 와 '구독' 알람 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/YCD8UX9LqZs/default_live.jpg",
+            "url": "https://i.ytimg.com/vi/GlqUi6DDf18/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/YCD8UX9LqZs/mqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/GlqUi6DDf18/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/YCD8UX9LqZs/hqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/GlqUi6DDf18/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "코인왕 알트",
-        "liveBroadcastContent": "live",
-        "publishTime": "2024-02-12T08:22:31Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "TxMsx1wA43gf51kSstbMD8Up8zM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "52t8n8J-TCg"
-      },
-      "snippet": {
-        "publishedAt": "2024-02-05T10:00:06Z",
-        "channelId": "UCUR5w0E-jQTOO8Q0FZ4ilYQ",
-        "title": "옛메, 엘나스에 일비 표창먹으러 갔습니다 [팡이요,  메이플스토리, 메이플랜드, 메랜, 옛날 메이플]",
-        "description": "풀버전은 아프리카TV 팡이요 방송국 VOD에 자동 업로드가 됩니다. 방송국에서 확인 해 주시기 바랍니다.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/52t8n8J-TCg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/52t8n8J-TCg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/52t8n8J-TCg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "팡이요",
+        "channelTitle": "케이스포츠",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-02-05T10:00:06Z"
+        "publishTime": "2024-02-17T03:30:05Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "yRVS2qK_1FT_tNEWZ1y4kg4ccCE",
+      "etag": "3ZrVOzjGQ5BLtnU5mesE-FNnCTc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "wBy-_L9v3jI"
+        "videoId": "FBynfiRGdlc"
       },
       "snippet": {
-        "publishedAt": "2024-02-05T01:18:10Z",
-        "channelId": "UCCYxG5_lDKaY9zdASl_gZVg",
-        "title": "메이플랜드 핵 터지고 초인플레이션 오면서 난리난 근황",
-        "description": "최근 연달아서 발생한 지폭천성 핵, 매크로 사태에 따라 주문서와 아이템 가격이 지속적으로 오르는 하이퍼 인플레이션 현상이 지속 ...",
+        "publishedAt": "2024-01-30T22:30:04Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 사우디아라비아 VS 대한민국 풀 하이라이트",
+        "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/wBy-_L9v3jI/default.jpg",
+            "url": "https://i.ytimg.com/vi/FBynfiRGdlc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/wBy-_L9v3jI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FBynfiRGdlc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/wBy-_L9v3jI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FBynfiRGdlc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "메이플홀릭",
+        "channelTitle": "쿠팡플레이 스포츠",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-02-05T01:18:10Z"
+        "publishTime": "2024-01-30T22:30:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "FcwPixwt46Htm3m0vLOimJ_YmyU",
+      "etag": "604MLDhmcYeIhN9AfrwBRN82srk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "uxa6N9aVXcY"
+        "videoId": "bleqa2R7MjE"
       },
       "snippet": {
-        "publishedAt": "2024-02-01T10:00:43Z",
-        "channelId": "UCUR5w0E-jQTOO8Q0FZ4ilYQ",
-        "title": "옛메, 최강 보스 주니어 발록을 만나다! 초 희귀템 일비 표창까지 ㄷㄷ [팡이요,  메이플스토리,메이플랜드,메랜,옛날메이플]",
-        "description": "풀버전은 아프리카TV 팡이요 방송국 VOD에 자동 업로드가 됩니다. 방송국에서 확인 해 주시기 바랍니다.",
+        "publishedAt": "2024-01-31T07:00:22Z",
+        "channelId": "UCtybqqaTj6Nx74Azdz1KrsA",
+        "title": "[2023 AFC 아시안컵 카타르] 16강 사우디아라비아 vs 대한민국",
+        "description": "[2023 AFC 아시안컵 카타르] 16강 사우디아라비아 vs 대한민국 ✨대한민국 8강 경기 일정 ✨ [8강] 2/2 (금) 밤12:30 대한민국 vs 호주.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/uxa6N9aVXcY/default.jpg",
+            "url": "https://i.ytimg.com/vi/bleqa2R7MjE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/uxa6N9aVXcY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bleqa2R7MjE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/uxa6N9aVXcY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bleqa2R7MjE/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "팡이요",
+        "channelTitle": "tvN SPORTS",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-02-01T10:00:43Z"
+        "publishTime": "2024-01-31T07:00:22Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "70BhNRSRqajzCwoom-OyC9NJg58",
+      "etag": "_LqkhBfrEgXeg2o4RXCsszo7nBM",
       "id": {
-        "kind": "youtube#video",
-        "videoId": "w8Pf5S6jmO8"
+        "kind": "youtube#channel",
+        "channelId": "UCXTRFt1vLvZpahQtiKJjLaQ"
       },
       "snippet": {
-        "publishedAt": "2024-02-11T10:00:40Z",
-        "channelId": "UCoYFo-lRD3pchMUtsBcEbOA",
-        "title": "도파민 풀충전 스페판+그린배틀로드 전붕이 인생역전 도전!!!",
-        "description": "안녕하세요 쌀튜브 트할입니다!! 구독 좋아요 알람설정 부탁드리겠습니다! ☆영상올라오는 시간☆ 월 , 수 , 금 , 토or일 주 4~5회 ...",
+        "publishedAt": "2010-09-14T03:07:38Z",
+        "channelId": "UCXTRFt1vLvZpahQtiKJjLaQ",
+        "title": "AFC Asian Cup",
+        "description": "Welcome to the official AFC Asian Cup YouTube Channel.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/w8Pf5S6jmO8/default.jpg",
-            "width": 120,
-            "height": 90
+            "url": "https://yt3.ggpht.com/z8p9-brFMw0CIMx3kJQYKfSQskSfxeqn0NDluTc80doOa6O8HgRW7_wAOAsux7HuUO3z_FQX=s88-c-k-c0xffffffff-no-rj-mo"
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/w8Pf5S6jmO8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
+            "url": "https://yt3.ggpht.com/z8p9-brFMw0CIMx3kJQYKfSQskSfxeqn0NDluTc80doOa6O8HgRW7_wAOAsux7HuUO3z_FQX=s240-c-k-c0xffffffff-no-rj-mo"
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/w8Pf5S6jmO8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+            "url": "https://yt3.ggpht.com/z8p9-brFMw0CIMx3kJQYKfSQskSfxeqn0NDluTc80doOa6O8HgRW7_wAOAsux7HuUO3z_FQX=s800-c-k-c0xffffffff-no-rj-mo"
           }
         },
-        "channelTitle": "트할 Thal",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-02-11T10:00:40Z"
+        "channelTitle": "AFC Asian Cup",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2010-09-14T03:07:38Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "i4TSWSqYxrGrmXINcEiHdqlctOA",
+      "etag": "ZfP5xpgK6Oy51GvBEgLhp2erkDw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "U285JgfkEFI"
+        "videoId": "AaJ9-J-IW64"
       },
       "snippet": {
-        "publishedAt": "2024-01-30T23:52:30Z",
-        "channelId": "UCWlrf8RV98zKq2saaXWaj1g",
-        "title": "[1월31일 잣Live]메이플랜드 엘나스!?  [리니지M  불도그 수삼티비 빅보스 리니지 부주 메이플월드 메이플랜드 아르테일 로나 ]",
-        "description": "광고 문의 : 카카오톡: FM7777 ◁ 전섭지존케릭 부주 후원코드:hooot9016072 투네이션:https://toon.at/donate/hoot1000 아프리카: ...",
+        "publishedAt": "2024-02-12T00:15:00Z",
+        "channelId": "UCeY7LD_o6Ttao_6s1YiAXdg",
+        "title": "카타르 아시안컵 2분 요약 [AFC Asian Cup 2023 Summary]",
+        "description": "태극전사 여러분들 정말 수고하셨습니다! 감사합니다! 그리고.......할말하않 #asiancup2023 #fifa.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/U285JgfkEFI/default.jpg",
+            "url": "https://i.ytimg.com/vi/AaJ9-J-IW64/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/U285JgfkEFI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/AaJ9-J-IW64/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/U285JgfkEFI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/AaJ9-J-IW64/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "잣근성",
+        "channelTitle": "유요",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-01-30T23:52:30Z"
+        "publishTime": "2024-02-12T00:15:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "rGws8w4n7ORva_BkNj48LdB3goY",
+      "etag": "t2FvGC1nmozdeLsGH7LxJtpa8PQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "V--yNyTwxps"
+        "videoId": "BSX7QqW-B0w"
       },
       "snippet": {
-        "publishedAt": "2024-02-11T08:16:58Z",
-        "channelId": "UCZ6IM7_T-bCmr_7DgAKjYxg",
-        "title": "성공만큼 큰 실패는 없다",
-        "description": "카론소속 피닉스박 유튜브 공식 채널 입니다! 타인을 비방하는 악의적, 모욕적인 댓글은 사전 고지 없이 차단되거나 삭제될 수 있음을 ...",
+        "publishedAt": "2024-02-06T18:36:15Z",
+        "channelId": "UCWvZuiT0H0ZqeA2ftM4uuKA",
+        "title": "나 손흥민인데 아시안컵 한마디만할게 #아시안컵 #손흥민 #웃긴영상",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/V--yNyTwxps/default.jpg",
+            "url": "https://i.ytimg.com/vi/BSX7QqW-B0w/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/V--yNyTwxps/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/BSX7QqW-B0w/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/V--yNyTwxps/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/BSX7QqW-B0w/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "피닉스박",
+        "channelTitle": "재미SSUL(재미썰)",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-02-11T08:16:58Z"
+        "publishTime": "2024-02-06T18:36:15Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "7Tg7XgBd0ZkNzem3yj9vZQ4ifr8",
+      "etag": "xSIsOTMsoKUZ1SSem-osJ_ssbdM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "EZSih9aweok"
+        "videoId": "tXOK7vyJVYY"
       },
       "snippet": {
-        "publishedAt": "2024-01-29T10:00:14Z",
-        "channelId": "UCDL0-u-fnbzU5ivY7UCnlqg",
-        "title": "지발돈좀 1대 본주입니다. 메이플랜드로 복귀를 해보려 합니다.",
-        "description": "안녕하세요. 메이플스토리 지발돈좀 1대 본주입니다 게임을 접은지 오랜 시간이 지났지만 메이플랜드로 복귀를 해보려고 합니다 ...",
+        "publishedAt": "2024-02-10T18:49:45Z",
+        "channelId": "UCnXNukjRxXGD8aeZGRV-lYg",
+        "title": "손흥민, 짜릿한 &#39;극장골 도움&#39;… 역전승 이끌어내다! #SPOTIME",
+        "description": "손흥민 #어시스트 #극장골 #토트넘 손흥민이 극장 역전 어시스트를 기록했습니다. 자세한 내용은 영상으로 확인하시죠~ 지금 보고 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/EZSih9aweok/default.jpg",
+            "url": "https://i.ytimg.com/vi/tXOK7vyJVYY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/EZSih9aweok/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tXOK7vyJVYY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/EZSih9aweok/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tXOK7vyJVYY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "지발돈좀",
+        "channelTitle": "스포타임",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-01-29T10:00:14Z"
+        "publishTime": "2024-02-10T18:49:45Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "hv6r9A4a1iE3j0T2jamekZv21BY",
+      "etag": "UqWleBjNUWnVcqXirHJ8XQ4sklI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "T1YK-RcurWQ"
+        "videoId": "q7F0S980jJ0"
       },
       "snippet": {
-        "publishedAt": "2024-02-11T03:00:17Z",
-        "channelId": "UCoNPTfleaF58461y-YIAnDA",
-        "title": "도파민의 땅 엘나스",
-        "description": "[모아재의 메이플랜드 25편] □ [모아재] 인스타 : https://www.instagram.com/moayoyo □ [모아재] 트위치 ...",
+        "publishedAt": "2024-02-02T20:30:04Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 호주 VS 대한민국 5분 하이라이트",
+        "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/T1YK-RcurWQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/q7F0S980jJ0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/T1YK-RcurWQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/q7F0S980jJ0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/T1YK-RcurWQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/q7F0S980jJ0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "모아재",
+        "channelTitle": "쿠팡플레이 스포츠",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-02-11T03:00:17Z"
+        "publishTime": "2024-02-02T20:30:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "TiSLlsa6Fi2B4PcP7sLqTwEayMM",
+      "etag": "ZJE-bpV3v2P3e2Z6OI-3f7FzdKE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "6Eo3BfWrync"
+        "videoId": "R-6w-Egtfss"
       },
       "snippet": {
-        "publishedAt": "2024-02-06T08:00:46Z",
-        "channelId": "UC-9v2ASxz8f313YpiMF55eg",
-        "title": "드디어 전사 풀템 맞췄습니다",
-        "description": "김데데의 메이플랜드 28번째이야기 *광고 문의: charon@gysent.com *개인 문의: alstmdjd20@daum.net - *풀 영상 링크 ...",
+        "publishedAt": "2024-02-03T07:46:01Z",
+        "channelId": "UC9vK_Tq3iUZK1DNlvbejsqA",
+        "title": "아시안컵 8강 호주전 손흥민 프리킥골이 들어갈 수 밖에 없었던 이유 #손흥민",
+        "description": "shorts #손흥민 #이강인 #김민재 #아시안컵축구 #대한민국축구대표팀 #황희찬 #클린스만 아시안컵 8강 호주전 손흥민 프리킥골이 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/6Eo3BfWrync/default.jpg",
+            "url": "https://i.ytimg.com/vi/R-6w-Egtfss/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/6Eo3BfWrync/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/R-6w-Egtfss/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/6Eo3BfWrync/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/R-6w-Egtfss/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "김데데",
+        "channelTitle": "코리아 특파원",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-02-06T08:00:46Z"
+        "publishTime": "2024-02-03T07:46:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "0rk4CAXpzsGKFK_-d_ZjKB30-MI",
+      "etag": "jhILYj4M_3U_P20fss1yKFKzluQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "pPhg46D8ewE"
+        "videoId": "gBaZMZ1ch0o"
       },
       "snippet": {
-        "publishedAt": "2024-01-31T13:00:44Z",
-        "channelId": "UCHxKSivB6JLZ1SEMdxd1fAg",
-        "title": "옛날 메이플에 미치면 생기는 일",
-        "description": "재밌게 시청하셨다면 구독과 좋아요 부탁드리겠습니다 실시간 생방송 : http://www.afreecatv.com/seokwngud 인스타그램 ...",
+        "publishedAt": "2024-02-03T16:30:06Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 이란 VS 일본 풀 하이라이트",
+        "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/pPhg46D8ewE/default.jpg",
+            "url": "https://i.ytimg.com/vi/gBaZMZ1ch0o/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/pPhg46D8ewE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gBaZMZ1ch0o/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/pPhg46D8ewE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gBaZMZ1ch0o/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "뜨뜨뜨뜨",
+        "channelTitle": "쿠팡플레이 스포츠",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-01-31T13:00:44Z"
+        "publishTime": "2024-02-03T16:30:06Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "TrePW7zUe2nKX5nIl03iJVg2o4Y",
+      "etag": "jz1mEAmwkAA9WDs52_i4y4abIhg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "6coHFE42Sks"
+        "videoId": "RrtFsZ5f3EU"
       },
       "snippet": {
-        "publishedAt": "2024-01-19T11:20:36Z",
-        "channelId": "UCUbOogiD-4PKDqaJfSOTC0g",
-        "title": "옛날메이플, 4차전직 해봤습니다 ㅋㅋㅋ 메이플스토리 [테스터훈]",
-        "description": "채널에 가입하여 멤버십 혜택을 누려보세요. https://www.youtube.com/channel/UCUbOogiD-4PKDqaJfSOTC0g/join 테스터훈 ...",
+        "publishedAt": "2024-02-06T17:57:33Z",
+        "channelId": "UCrPizr2l5nVyuram7buFKRw",
+        "title": "아시안컵 4강전 요르단전에서 완패  이경규의 반응 😡",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/6coHFE42Sks/default.jpg",
+            "url": "https://i.ytimg.com/vi/RrtFsZ5f3EU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/6coHFE42Sks/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RrtFsZ5f3EU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/6coHFE42Sks/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RrtFsZ5f3EU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "테스터훈 TesterHoon",
+        "channelTitle": "☃️뷰티앤푸드☃️BEAUTYandFOOD",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-01-19T11:20:36Z"
+        "publishTime": "2024-02-06T17:57:33Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "4RFB-32cU02VVzpKeF536oO2POI",
+      "etag": "QHj5K7uHA4nEECPm27hXrwGpkCo",
       "id": {
         "kind": "youtube#video",
-        "videoId": "LK04CWxn8x4"
+        "videoId": "CYEik9i6B4I"
       },
       "snippet": {
-        "publishedAt": "2024-02-04T09:25:08Z",
-        "channelId": "UCb5NLtXAsTBrmaZVhyFa-Wg",
-        "title": "메이플랜드 헌터의 자존심을 지키겠습니다",
-        "description": "항상 영상 사랑해주셔서 감사합니다! 세글자 팬카페 : https://3gj.kr/ 세글자 트위치 : https://www.twitch.tv/skswhdkgo1 세글자 ...",
+        "publishedAt": "2024-02-18T05:00:12Z",
+        "channelId": "UC2qVOOz13xLXHaw9yW-aMXQ",
+        "title": "논란의 아시안컵 이후 처음으로 이강인 선수에게 물어봤습니다",
+        "description": "다음 영상을 위해 구독부탁드립니다! Please subscribe for the next video 광고,협업 문의 kldh12@naver.com #이강인 #대한민국 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/LK04CWxn8x4/default.jpg",
+            "url": "https://i.ytimg.com/vi/CYEik9i6B4I/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/LK04CWxn8x4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/CYEik9i6B4I/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/LK04CWxn8x4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/CYEik9i6B4I/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "글자네 YouTube",
+        "channelTitle": "동현kldh",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-02-04T09:25:08Z"
+        "publishTime": "2024-02-18T05:00:12Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ejfdeWhloldSmyLNXj1WrKhz-ys",
+      "etag": "HxG-aZ2O3MoVIYpOArzXi0kFEwQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "kbHx6Vmxmb8"
+        "videoId": "lNpN_FH8_Ac"
       },
       "snippet": {
-        "publishedAt": "2024-02-11T10:00:35Z",
-        "channelId": "UCUR5w0E-jQTOO8Q0FZ4ilYQ",
-        "title": "옛메, 설날 특집 메이플랜드 모음zip 꿀잼보장ㅋㅋ [팡이요,  메이플스토리, 옛날메이플, 메이플랜드,메랜]",
-        "description": "풀버전은 아프리카TV 팡이요 방송국 VOD에 자동 업로드가 됩니다. 방송국에서 확인 해 주시기 바랍니다.",
+        "publishedAt": "2024-02-03T21:30:05Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 카타르 VS 우즈베키스탄 풀 하이라이트",
+        "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/kbHx6Vmxmb8/default.jpg",
+            "url": "https://i.ytimg.com/vi/lNpN_FH8_Ac/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/kbHx6Vmxmb8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lNpN_FH8_Ac/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/kbHx6Vmxmb8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lNpN_FH8_Ac/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "팡이요",
+        "channelTitle": "쿠팡플레이 스포츠",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-02-11T10:00:35Z"
+        "publishTime": "2024-02-03T21:30:05Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Pjgy0lEeRWisd1OJ8Zzvd1tnuv4",
+      "etag": "gxDN2A0kaMiiorsRo9hcLDcOPuY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Qyrj3y6uRBM"
+        "videoId": "P_GQ8LXQKII"
       },
       "snippet": {
-        "publishedAt": "2024-02-05T08:36:01Z",
-        "channelId": "UCZ6IM7_T-bCmr_7DgAKjYxg",
-        "title": "국가권력급 귀걸이 제작 완료..!",
-        "description": "카론소속 피닉스박 유튜브 공식 채널 입니다! 타인을 비방하는 악의적, 모욕적인 댓글은 사전 고지 없이 차단되거나 삭제될 수 있음을 ...",
+        "publishedAt": "2024-02-11T05:20:00Z",
+        "channelId": "UCtybqqaTj6Nx74Azdz1KrsA",
+        "title": "[2023 AFC 아시안컵 카타르] 결승 요르단 vs 카타르",
+        "description": "[2023 AFC 아시안컵 카타르] 결승 요르단 vs 카타르.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Qyrj3y6uRBM/default.jpg",
+            "url": "https://i.ytimg.com/vi/P_GQ8LXQKII/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Qyrj3y6uRBM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/P_GQ8LXQKII/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Qyrj3y6uRBM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/P_GQ8LXQKII/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "피닉스박",
+        "channelTitle": "tvN SPORTS",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-02-05T08:36:01Z"
+        "publishTime": "2024-02-11T05:20:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "X3Bo5Y0qh2MLCK4cXOiyR1IH7E0",
+      "etag": "1wZpdmYDAcTRzDYzSEXXoNNTeUw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "rIpQPolzVFE"
+        "videoId": "JIFcXiWRQQE"
       },
       "snippet": {
-        "publishedAt": "2024-02-05T15:03:27Z",
-        "channelId": "UCw9fP0nSoUygLDmvV1GdAZw",
-        "title": "라이칸스로프",
-        "description": "메이플랜드 Ep. 52 * SNS https://tiktok.com/@lego77_ https://facebook.com/legoseven7 * 문의 : lego77@pre-ent.com #레고77 ...",
+        "publishedAt": "2024-02-06T19:10:54Z",
+        "channelId": "UChI3EXzhAkRszawlMageKvQ",
+        "title": "아시안컵 솔직한 리뷰..",
+        "description": "리춘수 멤버십 가입하기 : https://www.youtube.com/channel/UChI3EXzhAkRszawlMageKvQ/join.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/rIpQPolzVFE/default.jpg",
+            "url": "https://i.ytimg.com/vi/JIFcXiWRQQE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/rIpQPolzVFE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JIFcXiWRQQE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/rIpQPolzVFE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JIFcXiWRQQE/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "레고77",
+        "channelTitle": "리춘수 [이천수]",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-02-05T15:03:27Z"
+        "publishTime": "2024-02-06T19:10:54Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "zTRdxdh5cDcVwDro5pxkJQxU61k",
+      "etag": "ujXNgU3oLN9gpBGSEAxPfJ5coFA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "8WEAqPhJrrc"
+        "videoId": "hHI5CDfN9pw"
       },
       "snippet": {
-        "publishedAt": "2024-02-06T07:02:11Z",
-        "channelId": "UCnUVDRLyoHl_FkqSOeCik6Q",
-        "title": "[메이플랜드] 한손검 파이터 해야겠지?.. 레드 카타나 체험기",
-        "description": "여러분들의 구독과 좋아요 및 댓글은 저에게 큰 힘이 됩니다. 투네이션 후원 : https://toon.at/donate/eins_going 각종 문의 ...",
+        "publishedAt": "2024-02-06T19:22:59Z",
+        "channelId": "UCRDowcnvz5ZVh-3NVAdfiqg",
+        "title": "(실시간) 유효슈팅 0+최악의 경기+최악의 감독+손흥민의 눈물. 아시안컵 4강 [대한민국vs요르단]",
+        "description": "본 영상은 유료광고를 포함하고 있습니다 [NEW쉐이빙젤+최대~57%] ▷ https://foellie.com/product/detail.html?product_no=219 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/8WEAqPhJrrc/default.jpg",
+            "url": "https://i.ytimg.com/vi/hHI5CDfN9pw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/8WEAqPhJrrc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hHI5CDfN9pw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/8WEAqPhJrrc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hHI5CDfN9pw/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "주깽아의 게임채널",
+        "channelTitle": "달수네라이브",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-02-06T07:02:11Z"
+        "publishTime": "2024-02-06T19:22:59Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "omBhUb8bfFFffxCHsWl3ER6CSNo",
+      "etag": "v4N1XpISOavDPu09qFNr3LN9o7U",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Qh89b05AODE"
+        "videoId": "73y056iCaTc"
       },
       "snippet": {
-        "publishedAt": "2023-12-31T08:10:44Z",
-        "channelId": "UCUR5w0E-jQTOO8Q0FZ4ilYQ",
-        "title": "추억의 옛날 메이플스토리 시작했습니다!! [팡이요,  메이플랜드, 메이플스토리]",
-        "description": "풀버전은 아프리카TV 팡이요 방송국 VOD에 자동 업로드가 됩니다. 방송국에서 확인 해 주시기 바랍니다.",
+        "publishedAt": "2024-02-07T05:05:00Z",
+        "channelId": "UCtybqqaTj6Nx74Azdz1KrsA",
+        "title": "[2023 AFC 아시안컵 카타르] 4강 대한민국 vs 요르단",
+        "description": "[2023 AFC 아시안컵 카타르] 4강 대한민국 vs 요르단.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Qh89b05AODE/default.jpg",
+            "url": "https://i.ytimg.com/vi/73y056iCaTc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Qh89b05AODE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/73y056iCaTc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Qh89b05AODE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/73y056iCaTc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "팡이요",
+        "channelTitle": "tvN SPORTS",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-12-31T08:10:44Z"
+        "publishTime": "2024-02-07T05:05:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ReMub06k3_z8O0Y5UPVeYYrXt0U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0ft-bPzYoKw"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-04T01:30:02Z",
+        "channelId": "UCtybqqaTj6Nx74Azdz1KrsA",
+        "title": "[2023 AFC 아시안컵 카타르] 8강 이란vs일본",
+        "description": "[2023 AFC 아시안컵 카타르] 8강 이란vs일본.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0ft-bPzYoKw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0ft-bPzYoKw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0ft-bPzYoKw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN SPORTS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-04T01:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qFf1etGh2HVX65V8rF4KQz7Njwk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RwYDHpmWiSk"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-10T10:40:00Z",
+        "channelId": "UCVl5dHKhpf4Z07HIH_KbnWQ",
+        "title": "아시안컵 아쉬운 박용우, 몰랐던 사실 3가지",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RwYDHpmWiSk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RwYDHpmWiSk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RwYDHpmWiSk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "축구스토리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-10T10:40:00Z"
       }
     }
   ]
