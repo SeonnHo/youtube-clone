@@ -5,20 +5,30 @@ import { useQuery } from '@tanstack/react-query';
 export default function Home() {
   const { youtube } = useYoutubeApi();
   const {
-    isLoading,
-    error,
+    isLoading: isVideosLoading,
+    isError: isVideosError,
     data: videos,
   } = useQuery({
     queryKey: ['popular videos'],
     queryFn: () => youtube.search(),
   });
 
+  const {
+    isLoading: isChannelsLoading,
+    isError: isChannelsError,
+    data: channels,
+  } = useQuery({
+    queryKey: ['channels'],
+    queryFn: () => youtube.channels(extractChannelIds(videos)),
+    enabled: !!videos,
+  });
+
   const compactNumberFormatter = new Intl.NumberFormat('ko', {
     notation: 'compact',
   });
 
-  const detailDate = (a) => {
-    const milliSeconds = new Date() - a;
+  const detailDate = (date) => {
+    const milliSeconds = new Date() - date;
     const seconds = milliSeconds / 1000;
     if (seconds < 60) return `방금 전`;
     const minutes = seconds / 60;
@@ -34,33 +44,87 @@ export default function Home() {
     const years = days / 365;
     return `${Math.floor(years)}년 전`;
   };
-  console.log(videos);
 
-  if (isLoading) return <p>Loading...</p>;
-  if (error) return <p>Something is wrong!</p>;
+  const modifyImageUrl = (originalUrl) => {
+    const newUrl = originalUrl.replace('/mqdefault.jpg', '/maxresdefault.jpg');
+    return newUrl;
+  };
+
+  const decodeHtmlEntities = (text) => {
+    return text
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&nbsp;/g, ' ')
+      .replace(/&amp;/g, '&')
+      .replace(/&quot;/g, '"');
+  };
+
+  const extractChannelIds = (videos) => {
+    let videoIdList = [];
+    videos.map((video) => videoIdList.push(video.snippet.channelId));
+    return videoIdList;
+  };
+
+  const usedChannelIds = [];
+
+  if (isVideosLoading || isChannelsLoading) return <p>Loading...</p>;
+  if (isVideosError || isChannelsError) return <p>Something is wrong!</p>;
 
   return (
-    <main className="grid xl:grid-cols-5 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 xl:gap-4 lg:gap-3 md:gap-2 sm:gap-1 w-4/5">
+    <main className="grid xl:grid-cols-5 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 gap-4 w-4/5 max-sm:flex max-sm:flex-col max-sm:w-full">
       {videos.map((video) => {
         return (
-          <div className="flex flex-col" key={video.id}>
+          <section className="flex flex-col max-sm:mb-2" key={video.id}>
             <img
-              className="rounded-xl"
+              className="rounded-xl max-sm:hidden"
               src={video.snippet.thumbnails.medium.url}
               alt="thumbnail"
               width={video.snippet.thumbnails.medium.width}
               height={video.snippet.thumbnails.medium.height}
             />
-            <div className="text-sm font-bold">
-              <p>{video.snippet.title}</p>
-              <p className="text-gray-500">{video.snippet.channelTitle}</p>
-              <p className="text-gray-500">
-                조회수{' '}
-                {compactNumberFormatter.format(video.statistics.viewCount)}회 •{' '}
-                {detailDate(new Date(video.snippet.publishedAt))}
-              </p>
+            <img
+              className="sm:hidden w-full"
+              src={modifyImageUrl(video.snippet.thumbnails.medium.url)}
+              alt="thumbnail"
+            />
+            <div className="max-sm:m-2 my-2 flex">
+              {channels.map((channel) => {
+                if (usedChannelIds.includes(channel.id)) {
+                  return null;
+                }
+                if (channel.id === video.snippet.channelId) {
+                  usedChannelIds.push(channel.id);
+                  return (
+                    <img
+                      key={channel.id}
+                      className="w-8 h-8 my-1 mx-2 rounded-full"
+                      src={channel.snippet.thumbnails.default.url}
+                      alt="channel thumbnails"
+                    />
+                  );
+                }
+                return null;
+              })}
+              <div>
+                <h2 className="max-sm:text-sm font-bold line-clamp-2">
+                  {decodeHtmlEntities(video.snippet.title)}
+                </h2>
+                <div className="max-sm:flex">
+                  <p className="text-sm max-sm:text-xs text-zinc-300 line-clamp-1 max-sm:hidden">
+                    {video.snippet.channelTitle}
+                  </p>
+                  <p className="text-sm max-sm:text-xs text-zinc-300 line-clamp-1 sm:hidden">
+                    {video.snippet.channelTitle}&nbsp;•&nbsp;
+                  </p>
+                  <p className="text-sm max-sm:text-xs text-zinc-300 line-clamp-1">
+                    조회수{' '}
+                    {compactNumberFormatter.format(video.statistics.viewCount)}
+                    회 • {detailDate(new Date(video.snippet.publishedAt))}
+                  </p>
+                </div>
+              </div>
             </div>
-          </div>
+          </section>
         );
       })}
     </main>
