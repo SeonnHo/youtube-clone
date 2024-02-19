@@ -1,0 +1,1970 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "hxyi_qDa6QBvvPl-gxRoP2p8igY",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "pAGB47DPjgeVSYtt9M2fUn6YR3A",
+      "id": "ksOQZ0z_PSQ",
+      "snippet": {
+        "publishedAt": "2024-02-10T21:00:25Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 결승 요르단 VS 카타르 풀 하이라이트",
+        "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n지금 쿠플하세요\nhttps://coupangplay.app.link/epp9hFE90Gb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ksOQZ0z_PSQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ksOQZ0z_PSQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ksOQZ0z_PSQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ksOQZ0z_PSQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ksOQZ0z_PSQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 결승 요르단 VS 카타르 풀 하이라이트",
+          "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n지금 쿠플하세요\nhttps://coupangplay.app.link/epp9hFE90Gb"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT15M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "allowed": ["KR"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2190179",
+        "likeCount": "13293",
+        "favoriteCount": "0",
+        "commentCount": "6782"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Zo69T3Gk53fnKbUh4TIno-EYfqA",
+      "id": "VGyhYYzMKdw",
+      "snippet": {
+        "publishedAt": "2024-02-07T20:00:11Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 이란 VS 카타르 풀 하이라이트",
+        "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n지금 쿠플하세요\nhttps://coupangplay.app.link/k92k95W7SGb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VGyhYYzMKdw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VGyhYYzMKdw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VGyhYYzMKdw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VGyhYYzMKdw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VGyhYYzMKdw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 이란 VS 카타르 풀 하이라이트",
+          "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n지금 쿠플하세요\nhttps://coupangplay.app.link/k92k95W7SGb"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT14M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "allowed": ["KR"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2084660",
+        "likeCount": "14681",
+        "favoriteCount": "0",
+        "commentCount": "8373"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "e_QrZJ8mLEjrSUgJQFGDwRdFFhs",
+      "id": "IMq_dbhxwAY",
+      "snippet": {
+        "publishedAt": "2024-02-06T20:30:02Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 요르단 VS 대한민국 풀 하이라이트",
+        "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n지금 쿠플하세요\nhttps://coupangplay.app.link/jxqznZuzRGb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IMq_dbhxwAY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IMq_dbhxwAY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IMq_dbhxwAY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IMq_dbhxwAY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IMq_dbhxwAY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 요르단 VS 대한민국 풀 하이라이트",
+          "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n지금 쿠플하세요\nhttps://coupangplay.app.link/jxqznZuzRGb"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT12M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "allowed": ["KR"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2098094",
+        "likeCount": "10866",
+        "favoriteCount": "0",
+        "commentCount": "18339"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EZjvWmOEa6-UR9LUnw2WTStPk3Y",
+      "id": "0FUkMFjg2uM",
+      "snippet": {
+        "publishedAt": "2024-02-03T06:15:00Z",
+        "channelId": "UCtybqqaTj6Nx74Azdz1KrsA",
+        "title": "[2023 AFC 아시안컵 카타르] 8강 대한민국 vs 호주",
+        "description": "[2023 AFC 아시안컵 카타르] 8강 대한민국 vs 호주",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0FUkMFjg2uM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0FUkMFjg2uM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0FUkMFjg2uM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0FUkMFjg2uM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0FUkMFjg2uM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tvN SPORTS",
+        "tags": [
+          "AFC",
+          "Coupangplay",
+          "FC서울",
+          "KFATV",
+          "Kim",
+          "PSG",
+          "SMG",
+          "SPOTV",
+          "Sonny",
+          "r김진짜",
+          "강원FC",
+          "광주FC",
+          "국가대표",
+          "김민재",
+          "김승규",
+          "김영원",
+          "김주성",
+          "김지수",
+          "김진수",
+          "김태환",
+          "달수네라이브",
+          "대구FC",
+          "대전하나시티즌",
+          "대한민국",
+          "대한민국국대",
+          "대한민국축구",
+          "동현kldh",
+          "리춘수",
+          "문선민",
+          "뭉쳐야찬다",
+          "뮌헨",
+          "바이에른뮌헨",
+          "박문성",
+          "박용우",
+          "박지성",
+          "박진섭양현준",
+          "박축공",
+          "배성재",
+          "베트남",
+          "서형욱",
+          "설영우",
+          "손흥민",
+          "송범근",
+          "수원FC",
+          "수원삼성블루윙즈",
+          "슛포러브",
+          "스브스스포츠",
+          "스포츠머그",
+          "스포타임",
+          "스포티비",
+          "아시안컵",
+          "안정환",
+          "오현규",
+          "울버햄튼",
+          "울브스",
+          "울산현대",
+          "이강인",
+          "이거해조원희형",
+          "이기제",
+          "이라크",
+          "이란",
+          "이순민",
+          "이재성",
+          "이천수",
+          "인천유나이티드",
+          "일본",
+          "잇으우",
+          "전북현대",
+          "전북현대모터스",
+          "정승현",
+          "정우영",
+          "제주유나이티드",
+          "조규성",
+          "조현우",
+          "중국",
+          "축구",
+          "축구국대",
+          "카타르",
+          "카타르아시안컵",
+          "쿠팡플레이",
+          "클린스만",
+          "클린스만호",
+          "토트넘",
+          "파링생제르맹",
+          "포항스틸러스",
+          "한국",
+          "한국축구",
+          "호주",
+          "홍현석",
+          "황인범",
+          "황희찬"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[2023 AFC 아시안컵 카타르] 8강 대한민국 vs 호주",
+          "description": "[2023 AFC 아시안컵 카타르] 8강 대한민국 vs 호주"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT19M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": ["KR"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1584346",
+        "likeCount": "13655",
+        "favoriteCount": "0",
+        "commentCount": "3612"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2GCT8_q8C7yzyowmJq1Xnf2u6KQ",
+      "id": "kW_z-NMuZIU",
+      "snippet": {
+        "publishedAt": "2024-02-02T21:30:04Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 호주 VS 대한민국 풀 하이라이트",
+        "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n\n지금 쿠플하세요\nhttps://coupangplay.app.link/7JWQ3e5WMGb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kW_z-NMuZIU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kW_z-NMuZIU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kW_z-NMuZIU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kW_z-NMuZIU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kW_z-NMuZIU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 호주 VS 대한민국 풀 하이라이트",
+          "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n\n지금 쿠플하세요\nhttps://coupangplay.app.link/7JWQ3e5WMGb"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT14M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": ["KR"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6407602",
+        "likeCount": "69332",
+        "favoriteCount": "0",
+        "commentCount": "16395"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "b4P5nKQeaEc5zXdBue7HcdAI_Do",
+      "id": "oeqHdqB9fjo",
+      "snippet": {
+        "publishedAt": "2024-02-10T20:00:13Z",
+        "channelId": "UCXTRFt1vLvZpahQtiKJjLaQ",
+        "title": "#AsianCup2023 | Final : Jordan 1 - 3 Qatar",
+        "description": "Akram Afif scored a hat-trick of penalties as Qatar won their second consecutive AFC Asian Cup™ title after defeating Jordan 3-1 in the Qatar 2023™ final at a packed Lusail Stadium on Saturday.\n\nFacebook: https://www.facebook.com/AFCAsianCup\nTwitter: https://twitter.com/afcasiancup\nInstagram:  http://instagram.com/afcasiancup",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oeqHdqB9fjo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oeqHdqB9fjo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oeqHdqB9fjo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oeqHdqB9fjo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oeqHdqB9fjo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AFC Asian Cup",
+        "tags": [
+          "AFC Asian Cup",
+          "Asian Cup 2019",
+          "Asian Football Confederation",
+          "Asian Cup 2011",
+          "Asian Football",
+          "AFC",
+          "Asian",
+          "Cup",
+          "2019",
+          "Asian Cup 2023",
+          "Asian Cup",
+          "Asian Qualifiers",
+          "China 2023",
+          "World Cup Qualifiers",
+          "FIFA",
+          "AFC Asian Cup 2023",
+          "U17",
+          "U20",
+          "U23"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "#AsianCup2023 | Final : Jordan 1 - 3 Qatar",
+          "description": "Akram Afif scored a hat-trick of penalties as Qatar won their second consecutive AFC Asian Cup™ title after defeating Jordan 3-1 in the Qatar 2023™ final at a packed Lusail Stadium on Saturday.\n\nFacebook: https://www.facebook.com/AFCAsianCup\nTwitter: https://twitter.com/afcasiancup\nInstagram:  http://instagram.com/afcasiancup"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT4M45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2805679",
+        "likeCount": "34812",
+        "favoriteCount": "0",
+        "commentCount": "15934"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tKpS3o1QVsLbUn6afNO9utyp6h4",
+      "id": "GlqUi6DDf18",
+      "snippet": {
+        "publishedAt": "2024-02-17T03:30:05Z",
+        "channelId": "UCGBmrTHyV_Pgup7a1wCHcKA",
+        "title": "\"흥민이가 왜 멱살까지 잡았겠어요\" 차두리 코치, 드디어 내부실태 까발려버리자 정몽규 발표 번복사태",
+        "description": "차두리 코치, 드디어 내부실태 까발려버리자 정몽규 발표 번복사태\n\n매일 스포츠 소식을 빠르게 시청하실려면 꼭 '좋아요' 와 '구독' 알람 설정까지 부탁드립니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GlqUi6DDf18/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GlqUi6DDf18/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GlqUi6DDf18/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GlqUi6DDf18/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GlqUi6DDf18/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "케이스포츠",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "\"흥민이가 왜 멱살까지 잡았겠어요\" 차두리 코치, 드디어 내부실태 까발려버리자 정몽규 발표 번복사태",
+          "description": "차두리 코치, 드디어 내부실태 까발려버리자 정몽규 발표 번복사태\n\n매일 스포츠 소식을 빠르게 시청하실려면 꼭 '좋아요' 와 '구독' 알람 설정까지 부탁드립니다."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT8M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "396124",
+        "likeCount": "6259",
+        "favoriteCount": "0",
+        "commentCount": "1278"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Dw8Q994VQci4Wg7YGtHe06O-nbQ",
+      "id": "FBynfiRGdlc",
+      "snippet": {
+        "publishedAt": "2024-01-30T22:30:04Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 사우디아라비아 VS 대한민국 풀 하이라이트",
+        "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n지금 쿠플하세요\nhttps://coupangplay.app.link/Q5o9DEBGEGb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FBynfiRGdlc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FBynfiRGdlc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FBynfiRGdlc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FBynfiRGdlc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FBynfiRGdlc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 사우디아라비아 VS 대한민국 풀 하이라이트",
+          "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n지금 쿠플하세요\nhttps://coupangplay.app.link/Q5o9DEBGEGb"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT15M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": ["KR"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5491764",
+        "likeCount": "58167",
+        "favoriteCount": "0",
+        "commentCount": "14586"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hWBu8QKEGYkpgS9_bxnUY07rIc4",
+      "id": "bleqa2R7MjE",
+      "snippet": {
+        "publishedAt": "2024-01-31T07:00:22Z",
+        "channelId": "UCtybqqaTj6Nx74Azdz1KrsA",
+        "title": "[2023 AFC 아시안컵 카타르] 16강 사우디아라비아 vs 대한민국",
+        "description": "[2023 AFC 아시안컵 카타르] 16강 사우디아라비아 vs 대한민국\n\n✨대한민국 8강 경기 일정 ✨\n[8강] 2/2 (금) 밤12:30 대한민국 vs 호주",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bleqa2R7MjE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bleqa2R7MjE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bleqa2R7MjE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bleqa2R7MjE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bleqa2R7MjE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tvN SPORTS",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[2023 AFC 아시안컵 카타르] 16강 사우디아라비아 vs 대한민국",
+          "description": "[2023 AFC 아시안컵 카타르] 16강 사우디아라비아 vs 대한민국\n\n✨대한민국 8강 경기 일정 ✨\n[8강] 2/2 (금) 밤12:30 대한민국 vs 호주"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT25M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2248823",
+        "likeCount": "19609",
+        "favoriteCount": "0",
+        "commentCount": "3240"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hWg--4GSPRGAtySGSRty-FjqyuM",
+      "id": "AaJ9-J-IW64",
+      "snippet": {
+        "publishedAt": "2024-02-12T00:15:00Z",
+        "channelId": "UCeY7LD_o6Ttao_6s1YiAXdg",
+        "title": "카타르 아시안컵 2분 요약 [AFC Asian Cup 2023 Summary]",
+        "description": "태극전사 여러분들 정말 수고하셨습니다!\n감사합니다!\n그리고.......할말하않\n\n#asiancup2023 #fifa",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AaJ9-J-IW64/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AaJ9-J-IW64/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AaJ9-J-IW64/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AaJ9-J-IW64/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AaJ9-J-IW64/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "유요",
+        "tags": [
+          "아시안컵",
+          "클린스만",
+          "위르겐클린스만",
+          "유요",
+          "축구협회",
+          "축협",
+          "정몽규",
+          "감독",
+          "손흥민",
+          "이강인",
+          "김민재",
+          "황희찬",
+          "조규성",
+          "박용우"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "카타르 아시안컵 2분 요약 [AFC Asian Cup 2023 Summary]",
+          "description": "태극전사 여러분들 정말 수고하셨습니다!\n감사합니다!\n그리고.......할말하않\n\n#asiancup2023 #fifa"
+        },
+        "defaultAudioLanguage": "zxx"
+      },
+      "contentDetails": {
+        "duration": "PT1M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "133175",
+        "likeCount": "2373",
+        "favoriteCount": "0",
+        "commentCount": "297"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "al595LPRqkfk8aVGGF-es6tsbcg",
+      "id": "BSX7QqW-B0w",
+      "snippet": {
+        "publishedAt": "2024-02-06T18:36:15Z",
+        "channelId": "UCWvZuiT0H0ZqeA2ftM4uuKA",
+        "title": "나 손흥민인데 아시안컵 한마디만할게 #아시안컵 #손흥민 #웃긴영상",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BSX7QqW-B0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BSX7QqW-B0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BSX7QqW-B0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BSX7QqW-B0w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BSX7QqW-B0w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "재미SSUL(재미썰)",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "나 손흥민인데 아시안컵 한마디만할게 #아시안컵 #손흥민 #웃긴영상",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2298848",
+        "likeCount": "50757",
+        "favoriteCount": "0",
+        "commentCount": "3258"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CpW1zIVa415TZZymQ45iMnvVkzk",
+      "id": "tXOK7vyJVYY",
+      "snippet": {
+        "publishedAt": "2024-02-10T18:49:45Z",
+        "channelId": "UCnXNukjRxXGD8aeZGRV-lYg",
+        "title": "손흥민, 짜릿한 '극장골 도움'… 역전승 이끌어내다! #SPOTIME",
+        "description": "#손흥민 #어시스트 #극장골 #토트넘\n\n손흥민이 극장 역전 어시스트를 기록했습니다.\n자세한 내용은 영상으로 확인하시죠~\n\n📺 지금 보고 있는 '이 장면'\nSPOTV NOW에서 시청하실 수 있습니다.\n\nSPOTV NOW ☞ https://www.spotvnow.co.kr/\n내가 원하는 스포츠 상품 구매는? ☞  https://www.spotvmall.com\nSPOTVNEWS ☞ http://www.spotvnews.co.kr/ \n네이버 TV ☞ https://tv.naver.com/spotvmaster/clips\n카카오 TV ☞ https://tv.kakao.com/channel/1706/video\n페이스북 ☞  https://www.facebook.com/spotvnews",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tXOK7vyJVYY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tXOK7vyJVYY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tXOK7vyJVYY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tXOK7vyJVYY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tXOK7vyJVYY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스포타임",
+        "tags": [
+          "손흥민",
+          "토트넘",
+          "손흥민 도움",
+          "손흥민 토트넘",
+          "토트넘 브라이튼",
+          "손흥민 극장 도움",
+          "손흥민 결승 어시스트",
+          "손흥민 브라이튼 도움",
+          "손흥민 활약",
+          "손흥민 이슈",
+          "손흥민 도움 브라이튼",
+          "손흥민 어시스트",
+          "손흥민 어시스트 브라이튼",
+          "손흥민 극장 어시스트 브라이튼",
+          "손흥민 브라이튼전",
+          "손흥민 미토마",
+          "손흥민 토트넘 골",
+          "손흥민 득점",
+          "손흥민 브라이튼전 도움",
+          "손흥민 브라이튼전 어시스트",
+          "손흥민 브라이튼전 활약",
+          "손흥민 브라이튼전 이슈",
+          "손흥민 미토마 도움",
+          "손흥민 미토마 어시스트",
+          "손흥민 브라이튼 활약",
+          "손흥민 브라이튼 이슈",
+          "토트넘 브라이튼 골",
+          "토트넘 브라이튼 하이라이트",
+          "토트넘 브라이튼 리뷰",
+          "토트넘 브라이튼 골 하이라이트",
+          "토트넘 브라이튼 골 리뷰",
+          "토트넘 브라이튼 득점",
+          "손흥민 결승 도움"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "손흥민, 짜릿한 '극장골 도움'… 역전승 이끌어내다! #SPOTIME",
+          "description": "#손흥민 #어시스트 #극장골 #토트넘\n\n손흥민이 극장 역전 어시스트를 기록했습니다.\n자세한 내용은 영상으로 확인하시죠~\n\n📺 지금 보고 있는 '이 장면'\nSPOTV NOW에서 시청하실 수 있습니다.\n\nSPOTV NOW ☞ https://www.spotvnow.co.kr/\n내가 원하는 스포츠 상품 구매는? ☞  https://www.spotvmall.com\nSPOTVNEWS ☞ http://www.spotvnews.co.kr/ \n네이버 TV ☞ https://tv.naver.com/spotvmaster/clips\n카카오 TV ☞ https://tv.kakao.com/channel/1706/video\n페이스북 ☞  https://www.facebook.com/spotvnews"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": ["KR"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2895138",
+        "likeCount": "30739",
+        "favoriteCount": "0",
+        "commentCount": "5516"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vnf841DsHG-A_B05IN80RL0Y9II",
+      "id": "q7F0S980jJ0",
+      "snippet": {
+        "publishedAt": "2024-02-02T20:30:04Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 호주 VS 대한민국 5분 하이라이트",
+        "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n\n\n지금 쿠플하세요\nhttps://coupangplay.app.link/7JWQ3e5WMG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q7F0S980jJ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q7F0S980jJ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q7F0S980jJ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q7F0S980jJ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q7F0S980jJ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 호주 VS 대한민국 5분 하이라이트",
+          "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n\n\n지금 쿠플하세요\nhttps://coupangplay.app.link/7JWQ3e5WMG"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT5M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": ["KR"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2180175",
+        "likeCount": "20114",
+        "favoriteCount": "0",
+        "commentCount": "5126"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sZmGchzIIcmmZ1Sv9wQjyJPYgVI",
+      "id": "R-6w-Egtfss",
+      "snippet": {
+        "publishedAt": "2024-02-03T07:46:01Z",
+        "channelId": "UC9vK_Tq3iUZK1DNlvbejsqA",
+        "title": "아시안컵 8강 호주전 손흥민 프리킥골이 들어갈 수 밖에 없었던 이유 #손흥민",
+        "description": "#shorts #손흥민 #이강인 #김민재 #아시안컵축구 #대한민국축구대표팀 #황희찬 #클린스만 \n\n아시안컵 8강 호주전 손흥민 프리킥골이 들어갈 수 밖에 없었던 이유 \n김민재 황희찬 손흥민 이강인 조규성 황인범 김진수 이기제",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R-6w-Egtfss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R-6w-Egtfss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R-6w-Egtfss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/R-6w-Egtfss/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/R-6w-Egtfss/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코리아 특파원",
+        "tags": [
+          "손흥민",
+          "아시안컵",
+          "클린스만",
+          "김민재",
+          "이강인",
+          "설영우",
+          "황희찬",
+          "조현우",
+          "사우디",
+          "축구국가대표",
+          "대한민국",
+          "대한민국축구"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "아시안컵 8강 호주전 손흥민 프리킥골이 들어갈 수 밖에 없었던 이유 #손흥민",
+          "description": "#shorts #손흥민 #이강인 #김민재 #아시안컵축구 #대한민국축구대표팀 #황희찬 #클린스만 \n\n아시안컵 8강 호주전 손흥민 프리킥골이 들어갈 수 밖에 없었던 이유 \n김민재 황희찬 손흥민 이강인 조규성 황인범 김진수 이기제"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2679944",
+        "likeCount": "38933",
+        "favoriteCount": "0",
+        "commentCount": "1072"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tl_oZEmLYrBR2mXLNF8QMDF7Uh4",
+      "id": "gBaZMZ1ch0o",
+      "snippet": {
+        "publishedAt": "2024-02-03T16:30:06Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 이란 VS 일본 풀 하이라이트",
+        "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n지금 쿠플하세요\nhttps://coupangplay.app.link/wFl8EdqKPGb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gBaZMZ1ch0o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gBaZMZ1ch0o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gBaZMZ1ch0o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gBaZMZ1ch0o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gBaZMZ1ch0o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 이란 VS 일본 풀 하이라이트",
+          "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n지금 쿠플하세요\nhttps://coupangplay.app.link/wFl8EdqKPGb"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT17M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": ["KR"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3333643",
+        "likeCount": "23754",
+        "favoriteCount": "0",
+        "commentCount": "10394"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bBp3KnuLhQa7tLOdndhX8XKYHv8",
+      "id": "RrtFsZ5f3EU",
+      "snippet": {
+        "publishedAt": "2024-02-06T17:57:33Z",
+        "channelId": "UCrPizr2l5nVyuram7buFKRw",
+        "title": "아시안컵 4강전 요르단전에서 완패  이경규의 반응 😡",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RrtFsZ5f3EU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RrtFsZ5f3EU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RrtFsZ5f3EU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RrtFsZ5f3EU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "☃️뷰티앤푸드☃️BEAUTYandFOOD",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "아시안컵 4강전 요르단전에서 완패  이경규의 반응 😡",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "879057",
+        "likeCount": "13613",
+        "favoriteCount": "0",
+        "commentCount": "2323"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5f5iG28jJsHONSxw6Da8WcrRz3M",
+      "id": "CYEik9i6B4I",
+      "snippet": {
+        "publishedAt": "2024-02-18T05:00:12Z",
+        "channelId": "UC2qVOOz13xLXHaw9yW-aMXQ",
+        "title": "논란의 아시안컵 이후 처음으로 이강인 선수에게 물어봤습니다",
+        "description": "다음 영상을 위해 구독부탁드립니다!\n\nPlease subscribe for the next video\n\n광고,협업 문의 kldh12@naver.com\n\n#이강인 #대한민국 #국가대표",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CYEik9i6B4I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CYEik9i6B4I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CYEik9i6B4I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CYEik9i6B4I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CYEik9i6B4I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "동현kldh",
+        "tags": [
+          "이강인",
+          "대한민국",
+          "파리생제르망",
+          "음바페",
+          "네이마르",
+          "김진수",
+          "클린스만",
+          "손흥민"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "논란의 아시안컵 이후 처음으로 이강인 선수에게 물어봤습니다",
+          "description": "다음 영상을 위해 구독부탁드립니다!\n\nPlease subscribe for the next video\n\n광고,협업 문의 kldh12@naver.com\n\n#이강인 #대한민국 #국가대표"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "475777",
+        "likeCount": "4185",
+        "favoriteCount": "0",
+        "commentCount": "4131"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hrXM1HzYT1ZtwNE9tKa2aNcN1v8",
+      "id": "lNpN_FH8_Ac",
+      "snippet": {
+        "publishedAt": "2024-02-03T21:30:05Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 카타르 VS 우즈베키스탄 풀 하이라이트",
+        "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n지금 쿠플하세요\nhttps://coupangplay.app.link/k92k95W7SGb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lNpN_FH8_Ac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lNpN_FH8_Ac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lNpN_FH8_Ac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lNpN_FH8_Ac/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lNpN_FH8_Ac/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 카타르 VS 우즈베키스탄 풀 하이라이트",
+          "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n지금 쿠플하세요\nhttps://coupangplay.app.link/k92k95W7SGb"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT12M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": ["KR"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1441004",
+        "likeCount": "10926",
+        "favoriteCount": "0",
+        "commentCount": "2340"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6fJSfMdkDgKF5wL-pyI462UUb_8",
+      "id": "P_GQ8LXQKII",
+      "snippet": {
+        "publishedAt": "2024-02-11T05:20:00Z",
+        "channelId": "UCtybqqaTj6Nx74Azdz1KrsA",
+        "title": "[2023 AFC 아시안컵 카타르] 결승 요르단 vs 카타르",
+        "description": "[2023 AFC 아시안컵 카타르] 결승 요르단 vs 카타르",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P_GQ8LXQKII/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P_GQ8LXQKII/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P_GQ8LXQKII/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P_GQ8LXQKII/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P_GQ8LXQKII/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tvN SPORTS",
+        "tags": [
+          "AFC",
+          "Coupangplay",
+          "FC서울",
+          "KFATV",
+          "Kim",
+          "PSG",
+          "SMG",
+          "SPOTV",
+          "Sonny",
+          "r김진짜",
+          "강원FC",
+          "광주FC",
+          "국가대표",
+          "김민재",
+          "김승규",
+          "김영원",
+          "김주성",
+          "김지수",
+          "김진수",
+          "김태환",
+          "달수네라이브",
+          "대구FC",
+          "대전하나시티즌",
+          "대한민국",
+          "대한민국국대",
+          "대한민국축구",
+          "동현kldh",
+          "리춘수",
+          "문선민",
+          "뭉쳐야찬다",
+          "뮌헨",
+          "바이에른뮌헨",
+          "박문성",
+          "박용우",
+          "박지성",
+          "박진섭양현준",
+          "박축공",
+          "배성재",
+          "베트남",
+          "서형욱",
+          "설영우",
+          "손흥민",
+          "송범근",
+          "수원FC",
+          "수원삼성블루윙즈",
+          "슛포러브",
+          "스브스스포츠",
+          "스포츠머그",
+          "스포타임",
+          "스포티비",
+          "아시안컵",
+          "안정환",
+          "오현규",
+          "울버햄튼",
+          "울브스",
+          "울산현대",
+          "이강인",
+          "이거해조원희형",
+          "이기제",
+          "이라크",
+          "이란",
+          "이순민",
+          "이재성",
+          "이천수",
+          "인천유나이티드",
+          "일본",
+          "잇으우",
+          "전북현대",
+          "전북현대모터스",
+          "정승현",
+          "정우영",
+          "제주유나이티드",
+          "조규성",
+          "조현우",
+          "중국",
+          "축구",
+          "축구국대",
+          "카타르",
+          "카타르아시안컵",
+          "쿠팡플레이",
+          "클린스만",
+          "클린스만호",
+          "토트넘",
+          "파링생제르맹",
+          "포항스틸러스",
+          "한국",
+          "한국축구",
+          "호주",
+          "홍현석",
+          "황인범",
+          "황희찬"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[2023 AFC 아시안컵 카타르] 결승 요르단 vs 카타르",
+          "description": "[2023 AFC 아시안컵 카타르] 결승 요르단 vs 카타르"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT21M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": ["KR"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "114483",
+        "likeCount": "696",
+        "favoriteCount": "0",
+        "commentCount": "540"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bQb7WZAuahyQQGLCMn-v6VC1o5M",
+      "id": "JIFcXiWRQQE",
+      "snippet": {
+        "publishedAt": "2024-02-06T19:10:54Z",
+        "channelId": "UChI3EXzhAkRszawlMageKvQ",
+        "title": "아시안컵 솔직한 리뷰..",
+        "description": "리춘수 멤버십 가입하기 :\nhttps://www.youtube.com/channel/UChI3EXzhAkRszawlMageKvQ/join",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JIFcXiWRQQE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JIFcXiWRQQE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JIFcXiWRQQE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JIFcXiWRQQE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JIFcXiWRQQE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "리춘수 [이천수]",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "아시안컵 솔직한 리뷰..",
+          "description": "리춘수 멤버십 가입하기 :\nhttps://www.youtube.com/channel/UChI3EXzhAkRszawlMageKvQ/join"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT14M45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2619441",
+        "likeCount": "37456",
+        "favoriteCount": "0",
+        "commentCount": "11959"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xp3BchsqiiJ8Y8P5j1RIQoAcOLM",
+      "id": "hHI5CDfN9pw",
+      "snippet": {
+        "publishedAt": "2024-02-06T19:22:59Z",
+        "channelId": "UCRDowcnvz5ZVh-3NVAdfiqg",
+        "title": "(실시간) 유효슈팅 0+최악의 경기+최악의 감독+손흥민의 눈물. 아시안컵 4강 [대한민국vs요르단]",
+        "description": "본 영상은 유료광고를 포함하고 있습니다\n\n[NEW쉐이빙젤+최대~57%] ▶ https://foellie.com/product/detail.html?product_no=219\n\n✅ 달수네 단독 공개💣 NEW 퍼펙트 쉴드 쉐이빙젤 ~39%할인\n✅ 옴므 로션+ 팩클렌저 구매 시 플러팅향수 증정✨\n✅ 옴므 로션+ 바디워시 구매 시 데일리BB크림 증정\n\n오늘도 돌아온 “달수네라이브x포엘리에 옴므”\n신제품 쉐이빙젤도 할인받고 히든 세트도 “달수네 단독특가”로 저렴하게 만나보시길 바랍니다.\n\n#아시안컵 #대한민국 #요르단 #4강 #준결승 #손흥민 #황희찬 #이강인 #설영우 #클린스만 \n\n달수네 멤버십에 가입하여 다양한 혜택을 누려보세요.\nhttps://www.youtube.com/channel/UCRDowcnvz5ZVh-3NVAdfiqg/join\n\n광고문의 dalsu2019@naver.com\nThis stream is created with #PRISMLiveStudio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hHI5CDfN9pw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hHI5CDfN9pw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hHI5CDfN9pw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hHI5CDfN9pw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hHI5CDfN9pw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "달수네라이브",
+        "tags": ["박문성", "축구", "달수", "달수네라이브"],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "(실시간) 유효슈팅 0+최악의 경기+최악의 감독+손흥민의 눈물. 아시안컵 4강 [대한민국vs요르단]",
+          "description": "본 영상은 유료광고를 포함하고 있습니다\n\n[NEW쉐이빙젤+최대~57%] ▶ https://foellie.com/product/detail.html?product_no=219\n\n✅ 달수네 단독 공개💣 NEW 퍼펙트 쉴드 쉐이빙젤 ~39%할인\n✅ 옴므 로션+ 팩클렌저 구매 시 플러팅향수 증정✨\n✅ 옴므 로션+ 바디워시 구매 시 데일리BB크림 증정\n\n오늘도 돌아온 “달수네라이브x포엘리에 옴므”\n신제품 쉐이빙젤도 할인받고 히든 세트도 “달수네 단독특가”로 저렴하게 만나보시길 바랍니다.\n\n#아시안컵 #대한민국 #요르단 #4강 #준결승 #손흥민 #황희찬 #이강인 #설영우 #클린스만 \n\n달수네 멤버십에 가입하여 다양한 혜택을 누려보세요.\nhttps://www.youtube.com/channel/UCRDowcnvz5ZVh-3NVAdfiqg/join\n\n광고문의 dalsu2019@naver.com\nThis stream is created with #PRISMLiveStudio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT5H38M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1602661",
+        "likeCount": "18134",
+        "favoriteCount": "0",
+        "commentCount": "247"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TeS0xj5mhF7gQVqPBw3tcr18BAA",
+      "id": "73y056iCaTc",
+      "snippet": {
+        "publishedAt": "2024-02-07T05:05:00Z",
+        "channelId": "UCtybqqaTj6Nx74Azdz1KrsA",
+        "title": "[2023 AFC 아시안컵 카타르] 4강 대한민국 vs 요르단",
+        "description": "[2023 AFC 아시안컵 카타르] 4강 대한민국 vs 요르단",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/73y056iCaTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/73y056iCaTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/73y056iCaTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/73y056iCaTc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/73y056iCaTc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tvN SPORTS",
+        "tags": [
+          "AFC",
+          "Coupangplay",
+          "FC서울",
+          "KFATV",
+          "Kim",
+          "PSG",
+          "SMG",
+          "SPOTV",
+          "Sonny",
+          "r김진짜",
+          "강원FC",
+          "광주FC",
+          "국가대표",
+          "김민재",
+          "김승규",
+          "김영원",
+          "김주성",
+          "김지수",
+          "김진수",
+          "김태환",
+          "달수네라이브",
+          "대구FC",
+          "대전하나시티즌",
+          "대한민국",
+          "대한민국국대",
+          "대한민국축구",
+          "동현kldh",
+          "리춘수",
+          "문선민",
+          "뭉쳐야찬다",
+          "뮌헨",
+          "바이에른뮌헨",
+          "박문성",
+          "박용우",
+          "박지성",
+          "박진섭양현준",
+          "박축공",
+          "배성재",
+          "베트남",
+          "서형욱",
+          "설영우",
+          "손흥민",
+          "송범근",
+          "수원FC",
+          "수원삼성블루윙즈",
+          "슛포러브",
+          "스브스스포츠",
+          "스포츠머그",
+          "스포타임",
+          "스포티비",
+          "아시안컵",
+          "안정환",
+          "오현규",
+          "울버햄튼",
+          "울브스",
+          "울산현대",
+          "이강인",
+          "이거해조원희형",
+          "이기제",
+          "이라크",
+          "이란",
+          "이순민",
+          "이재성",
+          "이천수",
+          "인천유나이티드",
+          "일본",
+          "잇으우",
+          "전북현대",
+          "전북현대모터스",
+          "정승현",
+          "정우영",
+          "제주유나이티드",
+          "조규성",
+          "조현우",
+          "중국",
+          "축구",
+          "축구국대",
+          "카타르",
+          "카타르아시안컵",
+          "쿠팡플레이",
+          "클린스만",
+          "클린스만호",
+          "토트넘",
+          "파링생제르맹",
+          "포항스틸러스",
+          "한국",
+          "한국축구",
+          "호주",
+          "홍현석",
+          "황인범",
+          "황희찬"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[2023 AFC 아시안컵 카타르] 4강 대한민국 vs 요르단",
+          "description": "[2023 AFC 아시안컵 카타르] 4강 대한민국 vs 요르단"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT10M45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": ["KR"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "235931",
+        "likeCount": "1149",
+        "favoriteCount": "0",
+        "commentCount": "2099"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xVAbnTjWlb2Y2Fh5Su04zxwtZfs",
+      "id": "0ft-bPzYoKw",
+      "snippet": {
+        "publishedAt": "2024-02-04T01:30:02Z",
+        "channelId": "UCtybqqaTj6Nx74Azdz1KrsA",
+        "title": "[2023 AFC 아시안컵 카타르] 8강 이란vs일본",
+        "description": "[2023 AFC 아시안컵 카타르] 8강 이란vs일본",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0ft-bPzYoKw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0ft-bPzYoKw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0ft-bPzYoKw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0ft-bPzYoKw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0ft-bPzYoKw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tvN SPORTS",
+        "tags": [
+          "AFC",
+          "Coupangplay",
+          "FC서울",
+          "KFATV",
+          "Kim",
+          "PSG",
+          "SMG",
+          "SPOTV",
+          "Sonny",
+          "r김진짜",
+          "강원FC",
+          "광주FC",
+          "국가대표",
+          "김민재",
+          "김승규",
+          "김영원",
+          "김주성",
+          "김지수",
+          "김진수",
+          "김태환",
+          "달수네라이브",
+          "대구FC",
+          "대전하나시티즌",
+          "대한민국",
+          "대한민국국대",
+          "대한민국축구",
+          "동현kldh",
+          "리춘수",
+          "문선민",
+          "뭉쳐야찬다",
+          "뮌헨",
+          "바이에른뮌헨",
+          "박문성",
+          "박용우",
+          "박지성",
+          "박진섭양현준",
+          "박축공",
+          "배성재",
+          "베트남",
+          "서형욱",
+          "설영우",
+          "손흥민",
+          "송범근",
+          "수원FC",
+          "수원삼성블루윙즈",
+          "슛포러브",
+          "스브스스포츠",
+          "스포츠머그",
+          "스포타임",
+          "스포티비",
+          "아시안컵",
+          "안정환",
+          "오현규",
+          "울버햄튼",
+          "울브스",
+          "울산현대",
+          "이강인",
+          "이거해조원희형",
+          "이기제",
+          "이라크",
+          "이란",
+          "이순민",
+          "이재성",
+          "이천수",
+          "인천유나이티드",
+          "일본",
+          "잇으우",
+          "전북현대",
+          "전북현대모터스",
+          "정승현",
+          "정우영",
+          "제주유나이티드",
+          "조규성",
+          "조현우",
+          "중국",
+          "축구",
+          "축구국대",
+          "카타르",
+          "카타르아시안컵",
+          "쿠팡플레이",
+          "클린스만",
+          "클린스만호",
+          "토트넘",
+          "파링생제르맹",
+          "포항스틸러스",
+          "한국",
+          "한국축구",
+          "호주",
+          "홍현석",
+          "황인범",
+          "황희찬"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[2023 AFC 아시안컵 카타르] 8강 이란vs일본",
+          "description": "[2023 AFC 아시안컵 카타르] 8강 이란vs일본"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT13M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": ["KR"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "428678",
+        "likeCount": "2783",
+        "favoriteCount": "0",
+        "commentCount": "1603"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HlRf1avmCEu_csaf7Ico40p88lU",
+      "id": "RwYDHpmWiSk",
+      "snippet": {
+        "publishedAt": "2024-02-10T10:40:00Z",
+        "channelId": "UCVl5dHKhpf4Z07HIH_KbnWQ",
+        "title": "아시안컵 아쉬운 박용우, 몰랐던 사실 3가지",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RwYDHpmWiSk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RwYDHpmWiSk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RwYDHpmWiSk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RwYDHpmWiSk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RwYDHpmWiSk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "축구스토리",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "아시안컵 아쉬운 박용우, 몰랐던 사실 3가지",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "757907",
+        "likeCount": "7053",
+        "favoriteCount": "0",
+        "commentCount": "407"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 24,
+    "resultsPerPage": 24
+  }
+}
