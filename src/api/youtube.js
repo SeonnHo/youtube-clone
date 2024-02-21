@@ -15,6 +15,10 @@ export default class Youtube {
     return this.#channelsByChannelIds(ids);
   }
 
+  async relationVideos(id) {
+    return this.#relationVideosByCategoryId(id);
+  }
+
   async #searchByKeyword(keyword) {
     return this.apiClient
       .search({
@@ -38,6 +42,7 @@ export default class Youtube {
           part: 'snippet,contentDetails,statistics',
           maxResults: 25,
           chart: 'mostPopular',
+          regionCode: 'KR',
         },
       })
       .then((res) => {
@@ -102,5 +107,20 @@ export default class Youtube {
       .then((res) => {
         return res.data.items;
       });
+  }
+
+  async #relationVideosByCategoryId(id) {
+    console.log('category id : ' + id);
+    return this.apiClient
+      .relationVideos({
+        params: {
+          part: 'snippet,contentDetails,statistics',
+          maxResults: 25,
+          chart: 'mostPopular',
+          regionCode: 'KR',
+          videoCategoryId: id,
+        },
+      })
+      .then((res) => res.data.items);
   }
 }
