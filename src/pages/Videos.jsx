@@ -1,6 +1,6 @@
 import { useQuery } from '@tanstack/react-query';
 import React from 'react';
-import { useParams } from 'react-router-dom';
+import { useNavigate, useParams } from 'react-router-dom';
 import { useYoutubeApi } from '../context/YoutubeApiContext';
 
 export default function Videos() {
@@ -34,6 +34,8 @@ export default function Videos() {
     queryFn: () => youtube.channels(extractChannelIds(videoDetails)),
     enabled: !!videoDetails,
   });
+
+  const navigate = useNavigate();
 
   const compactNumberFormatter = new Intl.NumberFormat('ko', {
     notation: 'compact',
@@ -83,19 +85,35 @@ export default function Videos() {
     return videoIdList;
   };
 
+  const handleClick = (id, video) => {
+    let resultChannel;
+    channels.forEach((channel) => {
+      if (video.snippet.channelId === channel.id) {
+        resultChannel = channel;
+      }
+    });
+    navigate(`/videos/watch/${id}`, {
+      state: { video, channel: resultChannel },
+    });
+  };
+
   if (isSearchLoading || isVideoDetailsLoading || isChannelsLoading)
     return <p>Loading...</p>;
   if (isSearchError || isVideoDetailsError || isChannelsError)
     return <p>Something is wrong!</p>;
 
   return (
-    <main className="flex flex-col w-4/5 max-sm:w-full">
-      {videoDetails.map((video, index) => {
+    <main className="flex flex-col w-full">
+      {videoDetails.map((video) => {
         return (
-          <section key={video.id} className="flex max-sm:flex-col mb-4">
+          <section
+            key={video.id}
+            className="flex max-sm:flex-col mb-4 cursor-pointer"
+            onClick={() => handleClick(video.id, video)}
+          >
             <img
               className={`shrink-0 rounded-xl max-sm:hidden`}
-              src={video.snippet.thumbnails.medium.url}
+              src={modifyImageUrl(video.snippet.thumbnails.medium.url)}
               alt="thumbnail"
               width={video.snippet.thumbnails.medium.width}
               height={video.snippet.thumbnails.medium.height}

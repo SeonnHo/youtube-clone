@@ -1,9 +1,11 @@
 import React from 'react';
 import { useYoutubeApi } from '../context/YoutubeApiContext';
 import { useQuery } from '@tanstack/react-query';
+import { useNavigate } from 'react-router-dom';
 
 export default function Home() {
   const { youtube } = useYoutubeApi();
+  const navigate = useNavigate();
   const {
     isLoading: isVideosLoading,
     isError: isVideosError,
@@ -67,14 +69,30 @@ export default function Home() {
 
   const usedChannelIds = [];
 
+  const handleClick = (id, video) => {
+    let resultChannel;
+    channels.forEach((channel) => {
+      if (video.snippet.channelId === channel.id) {
+        resultChannel = channel;
+      }
+    });
+    navigate(`/videos/watch/${id}`, {
+      state: { video, channel: resultChannel },
+    });
+  };
+
   if (isVideosLoading || isChannelsLoading) return <p>Loading...</p>;
   if (isVideosError || isChannelsError) return <p>Something is wrong!</p>;
 
   return (
-    <main className="grid xl:grid-cols-5 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 gap-4 w-4/5 max-sm:flex max-sm:flex-col max-sm:w-full">
+    <main className="grid xl:grid-cols-5 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 gap-4 w-full max-sm:flex max-sm:flex-col">
       {videos.map((video) => {
         return (
-          <section className="flex flex-col max-sm:mb-2" key={video.id}>
+          <section
+            className="flex flex-col max-sm:mb-2 cursor-pointer"
+            key={video.id}
+            onClick={() => handleClick(video.id, video)}
+          >
             <img
               className="rounded-xl max-sm:hidden"
               src={video.snippet.thumbnails.medium.url}
