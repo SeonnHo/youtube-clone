@@ -5,6 +5,7 @@
 #root {
   @apply w-full max-w-screen-2xl;
   @apply flex flex-col items-center;
+  @apply md:px-8;
 }
 
 body {
@@ -16,6 +17,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   width: 100vw;
   height: 100vh;
+  max-width: 100%;
   @apply flex flex-col items-center;
   @apply bg-zinc-900 text-gray-50;
 }

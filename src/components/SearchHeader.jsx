@@ -21,7 +21,7 @@ export default function SearchHeader() {
 
   useEffect(() => setInput(keyword || ''), [keyword]);
   return (
-    <header className="w-4/5 flex items-center py-2 mb-4 max-sm:w-full max-sm:mb-2">
+    <header className="w-full flex items-center py-2 mb-4 max-sm:w-full max-sm:mb-2">
       <Link
         to="/"
         className="flex items-center font-sans font-bold max-sm:ml-2"
