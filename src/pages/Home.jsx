@@ -2,11 +2,18 @@ import React from 'react';
 import { useYoutubeApi } from '../context/YoutubeApiContext';
 import { useQuery } from '@tanstack/react-query';
 import { useNavigate } from 'react-router-dom';
+import { compactNumberFormatter, dateFormatter } from '../utility/format';
+import {
+  replaceHtmlEntities,
+  replaceImageWithMaxRes,
+} from '../utility/replace';
+import { extractChannelIdList } from '../utility/extract';
 
 export default function Home() {
   const { youtube } = useYoutubeApi();
   const navigate = useNavigate();
   const {
+    isFetching: isVideosFetching,
     isLoading: isVideosLoading,
     isError: isVideosError,
     data: videos,
@@ -16,56 +23,15 @@ export default function Home() {
   });
 
   const {
+    isFetching: isChannelsFetching,
     isLoading: isChannelsLoading,
     isError: isChannelsError,
     data: channels,
   } = useQuery({
     queryKey: ['channels'],
-    queryFn: () => youtube.channels(extractChannelIds(videos)),
+    queryFn: () => youtube.channels(extractChannelIdList(videos)),
     enabled: !!videos,
   });
-
-  const compactNumberFormatter = new Intl.NumberFormat('ko', {
-    notation: 'compact',
-  });
-
-  const detailDate = (date) => {
-    const milliSeconds = new Date() - date;
-    const seconds = milliSeconds / 1000;
-    if (seconds < 60) return `방금 전`;
-    const minutes = seconds / 60;
-    if (minutes < 60) return `${Math.floor(minutes)}분 전`;
-    const hours = minutes / 60;
-    if (hours < 24) return `${Math.floor(hours)}시간 전`;
-    const days = hours / 24;
-    if (days < 7) return `${Math.floor(days)}일 전`;
-    const weeks = days / 7;
-    if (weeks < 5) return `${Math.floor(weeks)}주 전`;
-    const months = days / 30;
-    if (months < 12) return `${Math.floor(months)}개월 전`;
-    const years = days / 365;
-    return `${Math.floor(years)}년 전`;
-  };
-
-  const modifyImageUrl = (originalUrl) => {
-    const newUrl = originalUrl.replace('/mqdefault.jpg', '/maxresdefault.jpg');
-    return newUrl;
-  };
-
-  const decodeHtmlEntities = (text) => {
-    return text
-      .replace(/&lt;/g, '<')
-      .replace(/&gt;/g, '>')
-      .replace(/&nbsp;/g, ' ')
-      .replace(/&amp;/g, '&')
-      .replace(/&quot;/g, '"');
-  };
-
-  const extractChannelIds = (videos) => {
-    let videoIdList = [];
-    videos.map((video) => videoIdList.push(video.snippet.channelId));
-    return videoIdList;
-  };
 
   const usedChannelIds = [];
 
@@ -82,6 +48,7 @@ export default function Home() {
   };
 
   if (isVideosLoading || isChannelsLoading) return <p>Loading...</p>;
+  if (isVideosFetching || isChannelsFetching) return <p>Fetching...</p>;
   if (isVideosError || isChannelsError) return <p>Something is wrong!</p>;
 
   return (
@@ -102,7 +69,7 @@ export default function Home() {
             />
             <img
               className="sm:hidden w-full"
-              src={modifyImageUrl(video.snippet.thumbnails.medium.url)}
+              src={replaceImageWithMaxRes(video.snippet.thumbnails.medium.url)}
               alt="thumbnail"
             />
             <div className="max-sm:m-2 my-2 flex">
@@ -125,7 +92,7 @@ export default function Home() {
               })}
               <div>
                 <h2 className="max-sm:text-sm font-bold line-clamp-2">
-                  {decodeHtmlEntities(video.snippet.title)}
+                  {replaceHtmlEntities(video.snippet.title)}
                 </h2>
                 <div className="max-sm:flex">
                   <p className="text-sm max-sm:text-xs text-zinc-300 line-clamp-1 max-sm:hidden">
@@ -137,7 +104,7 @@ export default function Home() {
                   <p className="text-sm max-sm:text-xs text-zinc-300 line-clamp-1">
                     조회수{' '}
                     {compactNumberFormatter.format(video.statistics.viewCount)}
-                    회 • {detailDate(new Date(video.snippet.publishedAt))}
+                    회 • {dateFormatter(new Date(video.snippet.publishedAt))}
                   </p>
                 </div>
               </div>

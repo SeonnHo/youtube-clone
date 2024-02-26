@@ -3,12 +3,14 @@ import VideoCard from '../components/VideoCard';
 import RelationVideoCard from '../components/RelationVideoCard';
 import { useYoutubeApi } from '../context/YoutubeApiContext';
 import { useQuery } from '@tanstack/react-query';
+import { extractChannelIdList } from '../utility/extract';
 
 export default function VideoDetail() {
   const { state } = useLocation();
 
   const { youtube } = useYoutubeApi();
   const {
+    isFetching: isVideosFetching,
     isLoading: isVideoLoading,
     isError: isVideoError,
     data: videos,
@@ -18,23 +20,19 @@ export default function VideoDetail() {
   });
 
   const {
-    isLoading: isChannelLoading,
-    isError: isChannelError,
+    isFetching: isChannelsFetching,
+    isLoading: isChannelsLoading,
+    isError: isChannelsError,
     data: channels,
   } = useQuery({
     queryKey: ['relation video channels'],
-    queryFn: () => youtube.channels(extractChannelIds(videos)),
+    queryFn: () => youtube.channels(extractChannelIdList(videos)),
     enabled: !!videos,
   });
 
-  const extractChannelIds = (videos) => {
-    let videoIdList = [];
-    videos.map((video) => videoIdList.push(video.snippet.channelId));
-    return videoIdList;
-  };
-
-  if (isVideoLoading || isChannelLoading) return <div>Loading...</div>;
-  if (isVideoError || isChannelError) return <div>Something is wrong!</div>;
+  if (isVideoLoading || isChannelsLoading) return <p>Loading...</p>;
+  if (isVideosFetching || isChannelsFetching) return <p>Fetching...</p>;
+  if (isVideoError || isChannelsError) return <p>Something is wrong!</p>;
 
   return (
     <main className="w-full flex max-sm:flex-col">
