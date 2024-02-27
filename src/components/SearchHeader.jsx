@@ -27,7 +27,7 @@ export default function SearchHeader() {
         className="flex items-center font-sans font-bold max-sm:ml-2"
       >
         <BsYoutube className="text-brand size-8 max-sm:size-6" />
-        <h1 className="font-bold ml-2 text-3xl max-sm:ml-1 max-sm:text-xl">
+        <h1 className="font-bold ml-2 text-2xl max-sm:ml-1 max-sm:text-xl">
           YouTube
         </h1>
       </Link>
