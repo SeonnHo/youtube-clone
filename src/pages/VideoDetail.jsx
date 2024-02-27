@@ -11,12 +11,12 @@ export default function VideoDetail() {
   const { youtube } = useYoutubeApi();
   const {
     isFetching: isVideosFetching,
-    isLoading: isVideoLoading,
-    isError: isVideoError,
+    isLoading: isVideosLoading,
+    isError: isVideosError,
     data: videos,
   } = useQuery({
-    queryKey: ['relation videos'],
-    queryFn: () => youtube.relationVideos(state.video.snippet.categoryId),
+    queryKey: ['popular videos'],
+    queryFn: () => youtube.search(),
   });
 
   const {
@@ -25,14 +25,14 @@ export default function VideoDetail() {
     isError: isChannelsError,
     data: channels,
   } = useQuery({
-    queryKey: ['relation video channels'],
+    queryKey: ['popular video channels'],
     queryFn: () => youtube.channels(extractChannelIdList(videos)),
     enabled: !!videos,
   });
 
-  if (isVideoLoading || isChannelsLoading) return <p>Loading...</p>;
+  if (isVideosLoading || isChannelsLoading) return <p>Loading...</p>;
   if (isVideosFetching || isChannelsFetching) return <p>Fetching...</p>;
-  if (isVideoError || isChannelsError) return <p>Something is wrong!</p>;
+  if (isVideosError || isChannelsError) return <p>Something is wrong!</p>;
 
   return (
     <main className="w-full flex max-sm:flex-col">

@@ -28,7 +28,7 @@ export default function Home() {
     isError: isChannelsError,
     data: channels,
   } = useQuery({
-    queryKey: ['channels'],
+    queryKey: ['popular video channels'],
     queryFn: () => youtube.channels(extractChannelIdList(videos)),
     enabled: !!videos,
   });
