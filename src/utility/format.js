@@ -1,5 +1,6 @@
-export const compactNumberFormatter = new Intl.NumberFormat('ko', {
+export const compactNumberFormatter = new Intl.NumberFormat('ko-KR', {
   notation: 'compact',
+  maximumFractionDigits: 1,
 });
 
 export function dateFormatter(date) {
