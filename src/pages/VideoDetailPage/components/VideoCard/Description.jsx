@@ -1,7 +1,10 @@
 import React, { useEffect, useRef, useState } from 'react';
-import { compactNumberFormatter, dateFormatter } from '../utility/format';
+import {
+  compactNumberFormatter,
+  dateFormatter,
+} from '../../../../utility/format';
 
-export default function VideoDescription({ video }) {
+export default function Description({ video }) {
   const ref = useRef(null);
   const [isOverflow, setIsOverflow] = useState(false);
   const [isShowMore, setIsShowMore] = useState(false);

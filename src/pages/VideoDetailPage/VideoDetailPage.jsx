@@ -1,11 +1,12 @@
 import { useLocation } from 'react-router-dom';
-import VideoCard from '../components/VideoCard';
-import RelationVideoCard from '../components/RelationVideoCard';
-import { useYoutubeApi } from '../context/YoutubeApiContext';
+import VideoCard from './components/VideoCard/VideoCard';
+import RecommendationVideoCard from './components/RecommendationVideoCard/RecommendationVideoCard';
+import { useYoutubeApi } from '../../context/YoutubeApiContext';
 import { useQuery } from '@tanstack/react-query';
-import { extractChannelIdList } from '../utility/extract';
+import { extractChannelIdList } from '../../utility/extract';
+import Comment from './components/Comment/Comment';
 
-export default function VideoDetail() {
+export default function VideoDetailPage() {
   const { state } = useLocation();
 
   const { youtube } = useYoutubeApi();
@@ -36,18 +37,21 @@ export default function VideoDetail() {
 
   return (
     <main className="w-full flex max-sm:flex-col">
-      <VideoCard video={state.video} channel={state.channel} />
-      <div className="flex flex-col">
+      <div className="w-full flex flex-col mr-6">
+        <VideoCard video={state.video} channel={state.channel} />
+        <Comment video={state.video} />
+      </div>
+      <section className="flex flex-col">
         {videos.map((video) => {
           return (
-            <RelationVideoCard
+            <RecommendationVideoCard
               key={video.id}
               video={video}
               channels={channels}
             />
           );
         })}
-      </div>
+      </section>
     </main>
   );
 }

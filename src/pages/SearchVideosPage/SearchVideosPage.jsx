@@ -1,15 +1,18 @@
 import { useQuery } from '@tanstack/react-query';
 import React from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
-import { useYoutubeApi } from '../context/YoutubeApiContext';
-import { compactNumberFormatter, dateFormatter } from '../utility/format';
+import { useYoutubeApi } from '../../context/YoutubeApiContext';
+import { compactNumberFormatter, dateFormatter } from '../../utility/format';
 import {
   replaceHtmlEntities,
   replaceImageWithMaxRes,
-} from '../utility/replace';
-import { extractChannelIdList, extractVideoIdList } from '../utility/extract';
+} from '../../utility/replace';
+import {
+  extractChannelIdList,
+  extractVideoIdList,
+} from '../../utility/extract';
 
-export default function Videos() {
+export default function SearchVideosPage() {
   const { keyword } = useParams();
   const { youtube } = useYoutubeApi();
   const {
