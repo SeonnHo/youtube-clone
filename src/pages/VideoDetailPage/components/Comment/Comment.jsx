@@ -1,10 +1,12 @@
 import React from 'react';
-import Total from './Total';
+import TotalComment from './TotalComment';
+import CommentCard from './CommentCard';
 
 export default function Comment({ video }) {
   return (
-    <section>
-      <Total video={video} />
+    <section className="mb-4">
+      <TotalComment video={video} />
+      <CommentCard />
     </section>
   );
 }
