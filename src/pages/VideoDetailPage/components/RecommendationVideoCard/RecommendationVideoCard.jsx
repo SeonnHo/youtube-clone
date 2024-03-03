@@ -22,7 +22,7 @@ export default function RecommendationVideoCard({ video, channels }) {
 
   return (
     <div
-      className="flex w-[400px] h-[100px] flex-shrink-0 mb-4 cursor-pointer"
+      className="flex w-[400px] h-[100px] flex-shrink-0 mb-4 cursor-pointer max-sm:w-full"
       onClick={() => handleClick(video.id, video)}
     >
       <img
@@ -31,17 +31,17 @@ export default function RecommendationVideoCard({ video, channels }) {
         alt="thumbnail"
       />
       <div className="flex flex-col pl-2">
-        <h4 className="text-sm font-bold line-clamp-2 mb-2">
+        <p className="text-sm font-bold line-clamp-2 mb-2">
           {video.snippet.title}
-        </h4>
-        <h5 className="text-xs font-bold text-zinc-400 mb-1">
+        </p>
+        <p className="text-xs font-bold text-zinc-400 mb-1">
           {video.snippet.channelTitle}
-        </h5>
-        <h6 className="text-xs font-bold text-zinc-400">
+        </p>
+        <p className="text-xs font-bold text-zinc-400">
           조회수 {compactNumberFormatter.format(video.statistics.viewCount)}
           회&nbsp;•&nbsp;
           {dateFormatter(new Date(video.snippet.publishedAt))}
-        </h6>
+        </p>
       </div>
     </div>
   );
