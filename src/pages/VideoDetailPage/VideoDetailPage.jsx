@@ -37,7 +37,7 @@ export default function VideoDetailPage() {
 
   return (
     <main className="w-full flex max-sm:flex-col">
-      <div className="w-full flex flex-col mr-6">
+      <div className="w-full flex flex-col mr-6 max-sm:m-0">
         <VideoCard video={state.video} channel={state.channel} />
         <Comment video={state.video} />
       </div>

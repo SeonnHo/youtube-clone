@@ -6,11 +6,13 @@ import Title from './Title';
 
 export default function VideoCard({ video, channel }) {
   return (
-    <section className="w-full flex flex-col mb-8">
+    <section className="w-full flex flex-col mb-8 max-sm:m-0">
       <Video video={video} />
       <Title video={video} />
       <Owner video={video} channel={channel} />
-      <Description video={video} />
+      <div className="max-sm:px-2">
+        <Description video={video} />
+      </div>
     </section>
   );
 }

@@ -6,7 +6,7 @@ export default function Owner({ video, channel }) {
   const { subscriberCount } = channel.statistics;
   const { thumbnails } = channel.snippet;
   return (
-    <div className="flex flex-row my-3">
+    <div className="flex flex-row my-3 max-sm:px-2">
       <img
         className="w-12 h-12 rounded-full mr-3"
         src={thumbnails.default.url}
