@@ -1,10 +1,11 @@
 import { useLocation } from 'react-router-dom';
-import VideoCard from './components/VideoCard/VideoCard';
-import RecommendationVideoCard from './components/RecommendationVideoCard/RecommendationVideoCard';
+import RecommendationVideo from './RecommendationVideo/RecommendationVideo';
 import { useYoutubeApi } from '../../context/YoutubeApiContext';
 import { useQuery } from '@tanstack/react-query';
 import { extractChannelIdList } from '../../utility/extract';
-import Comment from './components/Comment/Comment';
+import Video from './Video/Video';
+import Comment from './Comment/Comment';
+import VideoInfo from './VideoInfo/VideoInfo';
 
 export default function VideoDetailPage() {
   const { state } = useLocation();
@@ -37,14 +38,24 @@ export default function VideoDetailPage() {
 
   return (
     <main className="w-full flex max-sm:flex-col">
-      <div className="w-full flex flex-col mr-6 max-sm:m-0">
-        <VideoCard video={state.video} channel={state.channel} />
-        <Comment video={state.video} />
-      </div>
+      <section className="sm:hidden aspect-video sticky top-0">
+        <Video video={state.video} />
+      </section>
+      <section className="w-full flex flex-col mr-6 max-sm:m-0">
+        <section className="w-full flex flex-col mb-8 max-sm:m-0">
+          <div className="max-sm:hidden aspect-video">
+            <Video video={state.video} />
+          </div>
+          <VideoInfo video={state.video} channel={state.channel} />
+        </section>
+        <section className="mb-4">
+          <Comment video={state.video} />
+        </section>
+      </section>
       <section className="flex flex-col">
         {videos.map((video) => {
           return (
-            <RecommendationVideoCard
+            <RecommendationVideo
               key={video.id}
               video={video}
               channels={channels}

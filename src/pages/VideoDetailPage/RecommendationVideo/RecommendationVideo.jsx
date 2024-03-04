@@ -1,11 +1,8 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import {
-  compactNumberFormatter,
-  dateFormatter,
-} from '../../../../utility/format';
+import { compactNumberFormatter, dateFormatter } from '../../../utility/format';
 
-export default function RecommendationVideoCard({ video, channels }) {
+export default function RecommendationVideo({ video, channels }) {
   const navigate = useNavigate();
 
   const handleClick = (id, video) => {
