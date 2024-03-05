@@ -19,7 +19,7 @@ export default function RecommendationVideo({ video, channels }) {
 
   return (
     <div
-      className="flex w-[400px] h-[100px] flex-shrink-0 mb-4 cursor-pointer max-sm:w-full"
+      className="flex w-[400px] h-[100px] flex-shrink-0 mb-4 cursor-pointer max-lg:w-full"
       onClick={() => handleClick(video.id, video)}
     >
       <img
