@@ -31,7 +31,7 @@ export default function SearchVideosPage() {
     isError: isVideoDetailsError,
     data: videoDetails,
   } = useQuery({
-    queryKey: ['video details'],
+    queryKey: ['video details', keyword],
     queryFn: () => youtube.videos(extractVideoIdList(videos)),
     enabled: !!videos,
   });
@@ -42,7 +42,7 @@ export default function SearchVideosPage() {
     isError: isChannelsError,
     data: channels,
   } = useQuery({
-    queryKey: ['channels'],
+    queryKey: ['channels', keyword],
     queryFn: () => youtube.channels(extractChannelIdList(videoDetails)),
     enabled: !!videoDetails,
   });
