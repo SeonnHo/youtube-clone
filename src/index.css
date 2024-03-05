@@ -5,7 +5,7 @@
 #root {
   @apply w-full max-w-screen-2xl;
   @apply flex flex-col items-center;
-  @apply md:px-8;
+  @apply lg:px-8;
 }
 
 body {

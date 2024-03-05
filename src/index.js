@@ -4,21 +4,21 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
-import NotFound from './pages/NotFound';
-import Home from './pages/Home';
-import Videos from './pages/Videos';
-import VideoDetail from './pages/VideoDetail';
+import NotFoundPage from './pages/NotFoundPage/NotFoundPage';
+import HomePage from './pages/HomePage/HomePage';
+import SearchVideosPage from './pages/SearchVideosPage/SearchVideosPage';
+import VideoDetailPage from './pages/VideoDetailPage/VideoDetailPage';
 
 const router = createBrowserRouter([
   {
     path: '/',
     element: <App />,
-    errorElement: <NotFound />,
+    errorElement: <NotFoundPage />,
     children: [
-      { index: true, element: <Home /> },
-      { path: '/videos', element: <Home /> },
-      { path: '/videos/:keyword', element: <Videos /> },
-      { path: '/videos/watch/:videoId', element: <VideoDetail /> },
+      { index: true, element: <HomePage /> },
+      { path: '/videos', element: <HomePage /> },
+      { path: '/videos/:keyword', element: <SearchVideosPage /> },
+      { path: '/videos/watch/:videoId', element: <VideoDetailPage /> },
     ],
   },
 ]);
