@@ -4,11 +4,13 @@ import { useQuery } from '@tanstack/react-query';
 import { useNavigate } from 'react-router-dom';
 import { extractChannelIdList } from '../../utility/extract';
 import VideoThumbnail from '../../components/VideoThumbnail';
-import ChannelThumbnail from './components/ChannelThumbnail';
-import VideoInfo from './components/VideoInfo';
+import ChannelThumbnail from '../../components/ChannelThumbnail';
+import VideoInfo from './VideoInfo/VideoInfo';
+import useWindowSize from '../../hooks/useWindowSize';
 
 export default function HomePage() {
   const { youtube } = useYoutubeApi();
+  const windowSize = useWindowSize();
   const navigate = useNavigate();
   const {
     isFetching: isVideosFetching,
@@ -48,7 +50,7 @@ export default function HomePage() {
   if (isVideosError || isChannelsError) return <p>Something is wrong!</p>;
 
   return (
-    <main className="grid xl:grid-cols-5 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 gap-4 w-full max-sm:flex max-sm:flex-col">
+    <main className="grid xl:grid-cols-5 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 gap-4 w-full max-sm:flex max-sm:flex-col sm:max-lg:px-4">
       {videos.map((video) => {
         return (
           <section
@@ -57,27 +59,36 @@ export default function HomePage() {
             onClick={() => handleClick(video.id, video)}
           >
             {/**
-             * 640px 미만일 때 숨김
+             * 640px 이상일 때 렌더링
              */}
-            <VideoThumbnail
-              video={video}
-              className={'rounded-xl max-sm:hidden'}
-              maxres={false}
-            />
+            {windowSize.width > 640 && (
+              <VideoThumbnail
+                video={video}
+                className={'rounded-xl'}
+                maxres={false}
+              />
+            )}
 
             {/**
-             * 640px 이상일 때 숨김
+             * 640px 미만일 때 렌더링
              */}
-            <VideoThumbnail
-              video={video}
-              className={'sm:hidden w-full'}
-              maxres={true}
-            />
+            {windowSize.width < 640 && (
+              <VideoThumbnail
+                video={video}
+                className={'w-full'}
+                maxres={true}
+              />
+            )}
+
             <div className="max-sm:m-2 my-2 flex">
               {channels.map((channel) => {
                 if (channel.id === video.snippet.channelId) {
                   return (
-                    <ChannelThumbnail key={channel.id} channel={channel} />
+                    <ChannelThumbnail
+                      key={channel.id}
+                      channel={channel}
+                      className={'w-8 h-8 my-1 mx-2 rounded-full'}
+                    />
                   );
                 }
                 return null;
