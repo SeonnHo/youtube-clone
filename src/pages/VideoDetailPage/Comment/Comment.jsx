@@ -1,25 +1,36 @@
 import React from 'react';
+import { BiLike, BiDislike } from 'react-icons/bi';
 
-export default function Comment({ video }) {
-  const { commentCount } = video.statistics;
+export default function Comment({ video, src }) {
   return (
     <>
-      <p className="text-xl font-bold my-6 max-sm:my-4 max-sm:px-2">
-        댓글 {commentCount}개
-      </p>
-      <div className="flex max-sm:px-2">
+      <div className="flex max-lg:px-4 mb-5">
         <img
-          className="size-6 mr-2 rounded-full"
-          src="https://cdn.pixabay.com/photo/2023/11/06/06/53/watermelon-8368960_1280.png"
+          className="size-10 max-lg:size-8 max-sm:size-6 mr-2 rounded-full"
+          src={src}
           alt="thumbnail"
         />
         <div className="flex flex-col">
-          <div className="flex">
-            <p>@user-dajknb12</p>
+          <div className="flex items-center">
+            <p className="text-xs">
+              @user-user{Math.floor(Math.random() * 100) + 1}
+            </p>
             &nbsp;
-            <p>1일 전</p>
+            <p className="text-zinc-500 text-xs">1일 전</p>
           </div>
-          <p>완전 재밌어보여요!!</p>
+          <p className="text-sm">이 댓글은 테스트 댓글입니다.</p>
+          <div className="flex mt-2">
+            <div className="flex items-center mr-2">
+              <BiLike className="size-6 mr-1 cursor-pointer" />
+              <p className="text-xs text-zinc-500">
+                {Math.floor(Math.random() * 1000) + 1}
+              </p>
+            </div>
+            <BiDislike className="size-6 mr-4 cursor-pointer" />
+            <button className="w-11 text-xs hover:bg-zinc-700 rounded-xl">
+              답글
+            </button>
+          </div>
         </div>
       </div>
     </>
