@@ -12,7 +12,7 @@ Youtube API를 활용한 유튜브 클론 리액트 프로젝트입니다. tanst
 
 > `React`<br/>`Tailwind CSS`<br/>`TanStack React Query`<br/>`React-Router-DOM`<br/>`Axios`<br/>`Postman`
 
-## 주요 기능
+## 🔑 주요 기능
 
 ### YouTube API 데이터 요청
 
