@@ -1,13 +1,26 @@
 # YouTube Clone React Project
 
+<p align="center">
+    <b>Home Page</b>
+</p>
+
 ![홈페이지](https://github.com/SeonnHo/youtube-clone/blob/main/images/home.png)
-![홈페이지_모바일](https://github.com/SeonnHo/youtube-clone/blob/main/images/home_mobile.png)
+
+---
+
+<p align="center">
+    <b>Search Video Page</b>
+</p>
 
 ![검색페이지](https://github.com/SeonnHo/youtube-clone/blob/main/images/search.png)
-![검색페이지_모바일](https://github.com/SeonnHo/youtube-clone/blob/main/images/search_mobile.png)
+
+---
+
+<p align="center">
+    <b>Video Detail Page</b>
+</p>
 
 ![디테일페이지](https://github.com/SeonnHo/youtube-clone/blob/main/images/detail.png)
-![디테일페이지_모바일](https://github.com/SeonnHo/youtube-clone/blob/main/images/detail_mobile.png)
 
 ---
 
