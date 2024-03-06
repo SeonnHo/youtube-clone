@@ -1,5 +1,16 @@
 # YouTube Clone React Project
 
+![홈페이지](https://github.com/SeonnHo/youtube-clone/blob/main/images/home.png)
+![홈페이지_모바일](https://github.com/SeonnHo/youtube-clone/blob/main/images/home_mobile.png)
+
+![검색페이지](https://github.com/SeonnHo/youtube-clone/blob/main/images/search.png)
+![검색페이지_모바일](https://github.com/SeonnHo/youtube-clone/blob/main/images/search_mobile.png)
+
+![디테일페이지](https://github.com/SeonnHo/youtube-clone/blob/main/images/detail.png)
+![디테일페이지_모바일](https://github.com/SeonnHo/youtube-clone/blob/main/images/detail_mobile.png)
+
+---
+
 ## 🖥️ 프로젝트 소개
 
 Youtube API를 활용한 유튜브 클론 리액트 프로젝트입니다. tanstack/react-query, axios, react-router-dom 라이브러리들을 활용하여 Youtube API 요청 및 데이터 캐싱과 라우팅을 구현했습니다.
@@ -12,7 +23,7 @@ Youtube API를 활용한 유튜브 클론 리액트 프로젝트입니다. tanst
 
 > `React`<br/>`Tailwind CSS`<br/>`TanStack React Query`<br/>`React-Router-DOM`<br/>`Axios`<br/>`Postman`
 
-## 🔑 주요 기능
+## 📌 주요 기능
 
 ### YouTube API 데이터 요청
 
