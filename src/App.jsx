@@ -3,7 +3,6 @@ import './App.css';
 import SearchHeader from './components/SearchHeader';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { YoutubeApiProvider } from './context/YoutubeApiContext';
-import { ReactQueryDevtools } from '@tanstack/react-query-devtools';
 
 const queryClient = new QueryClient({
   defaultOptions: {
@@ -21,7 +20,6 @@ function App() {
       <YoutubeApiProvider>
         <QueryClientProvider client={queryClient}>
           <Outlet />
-          <ReactQueryDevtools initialIsOpen={false} />
         </QueryClientProvider>
       </YoutubeApiProvider>
     </>
